@@ -1,2 +1,2 @@
 # ZeroGravity-LowOrbit
-Maps, Variants, and config for the LowOrbit server. 
+CI/CD pipeline for the maps, variants, and config of the LowOrbit server. 
