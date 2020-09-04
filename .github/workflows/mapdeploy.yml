@@ -47,4 +47,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: 22
-        script: sudo cp voting.json ~/containers/eldewrito/game/mods/server/
+        script: sudo -S cp voting.json ~/containers/eldewrito/game/mods/server/
