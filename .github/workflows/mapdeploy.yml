@@ -17,5 +17,5 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 22
         source: "maps"
-        target: "/home/jushwa/containers/eldewrito/cache/"
+        target: "~/containers/eldewrito/cache/"
         overwrite: 1
