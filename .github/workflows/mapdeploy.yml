@@ -16,7 +16,7 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: 22
-        source: "voting.json"
+        source: "maps"
         target: "/home/${{ secrets.USERNAME }}/containers/eldewrito/cache/"
         overwrite: 1
         
