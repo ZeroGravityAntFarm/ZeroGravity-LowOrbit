@@ -216,21 +216,6 @@
       ]
     },
     {
-      "displayName": "Get Out",
-      "typeName": "Warehouse",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Warehouse",
-          "mapName": "Warehouse"
-        }
-      ]
-    },
-    {
       "displayName": "Castle Wars",
       "typeName": "Castle Wars 1.8",
       "commands": [
