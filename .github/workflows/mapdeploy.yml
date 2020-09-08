@@ -33,7 +33,7 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 22
         source: "voting.json"
-        target: "/home/containers/eldewrito/cache/"
+        target: "/home/${{ secrets.USERNAME }}/containers/eldewrito/cache/"
         overwrite: 1
         
   CopyLocal:
