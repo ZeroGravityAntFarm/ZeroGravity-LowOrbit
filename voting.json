@@ -52,7 +52,7 @@
   "Types": [
     {
       "displayName": "Dyad",
-      "typeName": "Library",
+      "typeName": "Dyad",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -61,7 +61,7 @@
       "SpecificMaps": [
         {
           "displayName": "Gladiators",
-          "mapName": "Library"
+          "mapName": "Dyad"
         }
       ]
     },
@@ -97,7 +97,7 @@
     },
     {
       "displayName": "Gladiators",
-      "typeName": "Gladiators",
+      "typeName": "Gladiators V2",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -112,7 +112,7 @@
     },
     {
       "displayName": "Gladiators",
-      "typeName": "Gladiators",
+      "typeName": "Friendship Pit",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -127,7 +127,7 @@
     },
     {
       "displayName": "Wacky Races",
-      "typeName": "Wacky Races",
+      "typeName": "Sundown Lake",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -142,7 +142,7 @@
     },
     {
       "displayName": "Save a bullet",
-      "typeName": "Save a bullet",
+      "typeName": "Sky Halla",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -152,51 +152,6 @@
         {
           "displayName": "Sky Halla",
           "mapName": "Sky Halla"
-        }
-      ]
-    },
-    {
-      "displayName": "Fatkid",
-      "typeName": "Fatkid",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Fatkid Pit",
-          "mapName": "Fatcunt pit"
-        }
-      ]
-    },
-    {
-      "displayName": "Fatkid",
-      "typeName": "Fatkid",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Fatkid Narrows",
-          "mapName": "Fatcunt Narrows"
-        }
-      ]
-    },
-    {
-      "displayName": "Fatkid",
-      "typeName": "Fatkid",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Higher fatass",
-          "mapName": "Higher fatass"
         }
       ]
     },
@@ -217,7 +172,7 @@
     },
     {
       "displayName": "Swords",
-      "typeName": "Swords",
+      "typeName": "Sword Tourney",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -232,7 +187,7 @@
     },
     {
       "displayName": "Skycastle",
-      "typeName": "Skycastle  V6.2",
+      "typeName": "Skycastle  6.1RB",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -247,7 +202,7 @@
     },
     {
       "displayName": "DoD",
-      "typeName": "Drive Or Die",
+      "typeName": "DoD",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -256,13 +211,13 @@
       "SpecificMaps": [
         {
           "displayName": "Drive Or Die",
-          "mapName": "DoD cucked"
+          "mapName": "DoD"
         }
       ]
     },
     {
       "displayName": "Get Out",
-      "typeName": "Get Out",
+      "typeName": "Warehouse",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -277,7 +232,7 @@
     },
     {
       "displayName": "Castle Wars",
-      "typeName": "Castle Wars",
+      "typeName": "Castle Wars 1.8",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -292,7 +247,7 @@
     },
     {
       "displayName": "Fatkid",
-      "typeName": "Fatkid",
+      "typeName": "Fatbox Ice",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -307,7 +262,7 @@
     },
     {
       "displayName": "Fatkid",
-      "typeName": "Fatkid",
+      "typeName": "Big Smoke Order",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
