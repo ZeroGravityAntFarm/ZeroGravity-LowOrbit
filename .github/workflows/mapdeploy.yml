@@ -17,7 +17,7 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 22
         source: "voting.json"
-        target: "~/containers/eldewrito/cache/"
+        target: "/home/${{ secrets.USERNAME }}/containers/eldewrito/cache/"
         overwrite: 1
         
   DeployVoteConfig:
@@ -33,7 +33,7 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 22
         source: "voting.json"
-        target: "~/containers/eldewrito/cache/"
+        target: "~/containers/${{ secrets.USERNAME }}/eldewrito/cache/"
         overwrite: 1
         
   CopyLocal:
@@ -47,4 +47,4 @@ jobs:
         username: ${{ secrets.USERNAME }}
         password: ${{ secrets.PASSWORD }}
         port: 22
-        script: echo ${{ secrets.PASSWORD }} | sudo -S cp ~/containers/eldewrito/cache/voting.json ~/containers/eldewrito/game/mods/server/
+        script: echo ${{ secrets.PASSWORD }} | sudo -S /home/${{ secrets.USERNAME }}/containers/eldewrito/cache/copy.sh
