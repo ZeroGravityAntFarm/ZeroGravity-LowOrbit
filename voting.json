@@ -66,6 +66,21 @@
       ]
     },
     {
+      "displayName": "Fatkid",
+      "typeName": "Garys Lab",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 8"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Garys Lab",
+          "mapName": "Gary Lab"
+        }
+      ]
+    },
+    {
       "displayName": "Swat",
       "typeName": "Altiorem",
       "commands": [
