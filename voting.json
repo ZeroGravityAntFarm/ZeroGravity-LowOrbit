@@ -171,8 +171,8 @@
       ]
     },
     {
-      "displayName": "Swords",
-      "typeName": "Sword Tourney",
+      "displayName": "Wacky River",
+      "typeName": "Wacky River",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -180,8 +180,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Sword Tourney",
-          "mapName": "Sword Tourney"
+          "displayName": "Wacky River",
+          "mapName": "Wacky River"
         }
       ]
     },
