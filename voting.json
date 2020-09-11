@@ -91,7 +91,7 @@
       "SpecificMaps": [
         {
           "displayName": "Garys Lab",
-          "mapName": "Gary Lab"
+          "mapName": "Garys Lab"
         }
       ]
     },
@@ -186,8 +186,8 @@
       ]
     },
     {
-      "displayName": "Swords",
-      "typeName": "Sword Tourney",
+      "displayName": "Wacky River",
+      "typeName": "Wacky River",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -195,8 +195,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Sword Tourney",
-          "mapName": "Sword Tourney"
+          "displayName": "Wacky River",
+          "mapName": "Wacky River"
         }
       ]
     },
@@ -242,6 +242,21 @@
         {
           "displayName": "Castle Wars 1.8",
           "mapName": "Castle Wars 1.8"
+        }
+      ]
+    },
+    {
+      "displayName": "GravBall",
+      "typeName": "GravBall",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "GravBall",
+          "mapName": "GravBall"
         }
       ]
     },
