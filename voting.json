@@ -66,6 +66,21 @@
       ]
     },
     {
+      "displayName": "Save 1 Bullet",
+      "typeName": "5 Levels",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "5 Levels",
+          "mapName": "5 Levels"
+        }
+      ]
+    },
+    {
       "displayName": "Fatkid",
       "typeName": "Garys Lab",
       "commands": [
