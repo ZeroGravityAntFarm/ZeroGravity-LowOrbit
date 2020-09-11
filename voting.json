@@ -257,7 +257,22 @@
         {
           "displayName": "Big Smoke Order",
           "mapName": "Big Smoke Order"
+        },
+        {
+      "displayName": "Gravball",
+      "typeName": "GravBall",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "GravBall",
+          "mapName": "GravBall"
         }
+      ]
+    }
       ]
     }
   ]
