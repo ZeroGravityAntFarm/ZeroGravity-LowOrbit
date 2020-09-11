@@ -231,6 +231,21 @@
       ]
     },
     {
+      "displayName": "GravBall",
+      "typeName": "GravBall",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "GravBall",
+          "mapName": "GravBall"
+        }
+      ]
+    },
+    {
       "displayName": "Fatkid",
       "typeName": "Fatbox Ice",
       "commands": [
@@ -257,22 +272,7 @@
         {
           "displayName": "Big Smoke Order",
           "mapName": "Big Smoke Order"
-        },
-        {
-      "displayName": "Gravball",
-      "typeName": "GravBall",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "GravBall",
-          "mapName": "GravBall"
         }
-      ]
-    }
       ]
     }
   ]
