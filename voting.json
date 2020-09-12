@@ -290,9 +290,7 @@
         }
       ]
     }
-  ]
-}
-{
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
@@ -305,5 +303,7 @@
           "displayName": "Fortress Wars",
           "mapName": "Fortress Wars"
         }
- ]
-}
+       ]
+      }
+     ]
+    }
