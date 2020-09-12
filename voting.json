@@ -293,8 +293,8 @@
   ]
 }
 {
-      "displayName": "Fortress Wars I",
-      "typeName": "Fortress Wars I",
+      "displayName": "Fortress Wars",
+      "typeName": "Fortress Wars",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
