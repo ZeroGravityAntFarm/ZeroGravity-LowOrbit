@@ -246,8 +246,8 @@
       ]
     },
     {
-      "displayName": "GravBall",
-      "typeName": "GravBall",
+      "displayName": "ChopperBall WIP",
+      "typeName": "ChopperBall WIP",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -255,8 +255,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "GravBall",
-          "mapName": "GravBall"
+          "displayName": "ChopperBall WIP",
+          "mapName": "ChopperBall WIP"
         }
       ]
     },
@@ -293,8 +293,8 @@
   ]
 }
 {
-      "displayName": "Fortress Wars I",
-      "typeName": "Fortress Wars I",
+      "displayName": "Fortress Wars",
+      "typeName": "Fortress Wars",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -302,8 +302,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fortress Wars I",
-          "mapName": "Fortress Wars I"
+          "displayName": "Fortress Wars",
+          "mapName": "Fortress Wars"
         }
  ]
 }
