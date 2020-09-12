@@ -292,3 +292,18 @@
     }
   ]
 }
+{
+      "displayName": "Fortress Wars I",
+      "typeName": "Fortress Wars I",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fortress Wars I",
+          "mapName": "Fortress Wars I"
+        }
+ ]
+}
