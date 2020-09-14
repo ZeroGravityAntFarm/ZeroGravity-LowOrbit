@@ -202,7 +202,7 @@
     },
     {
       "displayName": "Skycastle",
-      "typeName": "Skycastle  6.1RB",
+      "typeName": "Skycastle 6.1RB",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
