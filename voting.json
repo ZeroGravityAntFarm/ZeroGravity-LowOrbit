@@ -66,6 +66,21 @@
       ]
     },
     {
+      "displayName": "DTH",
+      "typeName": "Deck The Halls",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Deck The Halls",
+          "mapName": "Deck The Halls"
+        }
+      ]
+    },
+    {
       "displayName": "Fatter Kid",
       "typeName": "Godzilla",
       "commands": [
