@@ -66,6 +66,21 @@
       ]
     },
     {
+      "displayName": "Fatter Kid",
+      "typeName": "Godzilla",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Gawdzirra Run",
+          "mapName": "Godzilla"
+        }
+      ]
+    },
+    {
       "displayName": "Save 1 Bullet",
       "typeName": "5 Levels",
       "commands": [
@@ -242,21 +257,6 @@
         {
           "displayName": "Castle Wars 1.8",
           "mapName": "Castle Wars 1.8"
-        }
-      ]
-    },
-    {
-      "displayName": "ChopperBall WIP",
-      "typeName": "ChopperBall WIP",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "ChopperBall WIP",
-          "mapName": "ChopperBall WIP"
         }
       ]
     },
