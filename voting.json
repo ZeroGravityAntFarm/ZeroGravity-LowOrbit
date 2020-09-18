@@ -306,11 +306,11 @@
       ]
     },
     {
-      "displayName": "Fortress Wars",
-      "typeName": "Kingslayers",
+      "displayName": "Kingslayers",
+      "typeName": "Fortress Wars",
       "commands": [
         "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
+        "Server.AssassinationEnabled 1",
         "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
