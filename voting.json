@@ -144,7 +144,7 @@
       "displayName": "Siege",
       "typeName": "R6 Siege",
       "commands": [
-        "Server.SprintEnabled 1",
+        "Server.SprintEnabled 0",
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
@@ -307,7 +307,7 @@
     },
     {
       "displayName": "Fortress Wars",
-      "typeName": "Fortress Wars",
+      "typeName": "Kingslayers",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
