@@ -141,7 +141,7 @@
       ]
     },
     {
-      "displayName": "Vampire",
+      "displayName": "Vampire Slayer",
       "typeName": "Altiorem",
       "commands": [
         "Server.SprintEnabled 1",
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "displayName": "Siege",
+      "displayName": "House Siege",
       "typeName": "R6 Siege",
       "commands": [
         "Server.SprintEnabled 0",
@@ -336,7 +336,7 @@
       ]
     },
     {
-      "displayName": "Kingslayers",
+      "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
         "Server.SprintEnabled 1",
