@@ -66,6 +66,21 @@
       ]
     },
     {
+      "displayName": "Hot Pursuit",
+      "typeName": "EDG Hot Pursuit",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 8"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "EDG Hot Pursuit",
+          "mapName": "EDG Hot Pursuit"
+        }
+      ]
+    },
+    {
       "displayName": "DTH",
       "typeName": "Deck The Halls",
       "commands": [
