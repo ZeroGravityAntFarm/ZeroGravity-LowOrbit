@@ -99,7 +99,7 @@
       "displayName": "Fatter Kid",
       "typeName": "Godzilla",
       "commands": [
-        "Server.SprintEnabled 1",
+        "Server.SprintEnabled 0",
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
