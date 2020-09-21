@@ -291,8 +291,8 @@
       ]
     },
     {
-      "displayName": "Fatkid Ornare",
-      "typeName": "Fatkid Ornare",
+      "displayName": "GravBall",
+      "typeName": "GravBall",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -300,8 +300,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fatkid Ornare",
-          "mapName": "Fatkid Ornare"
+          "displayName": "GravBall",
+          "mapName": "GravBall"
         }
       ]
     },
