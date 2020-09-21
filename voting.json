@@ -291,8 +291,8 @@
       ]
     },
     {
-      "displayName": "GravBall WIP",
-      "typeName": "GravBall WIP",
+      "displayName": "GravBall",
+      "typeName": "GravBall",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -300,8 +300,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "GravBall WIP",
-          "mapName": "GravBall WIP"
+          "displayName": "GravBall",
+          "mapName": "GravBall"
         }
       ]
     },
