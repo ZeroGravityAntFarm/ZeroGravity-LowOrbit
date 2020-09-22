@@ -335,6 +335,22 @@
         }
       ]
     },
+    },
+    {
+      "displayName": "Low G KOTH",
+      "typeName": "Low G KOTH",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 4"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Octagram KOTH",
+          "mapName": "Low G KOTH"
+        }
+      ]
+    },
     {
       "displayName": "Fatkid",
       "typeName": "Big Smoke Order",
