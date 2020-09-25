@@ -231,6 +231,21 @@
       ]
     },
     {
+      "displayName": "Fatkid",
+      "typeName": "Indiana Jones",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Indiana Jones",
+          "mapName": "Indiana Jones"
+        }
+      ]
+    },
+    {
       "displayName": "Wacky River",
       "typeName": "Wacky River",
       "commands": [
