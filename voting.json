@@ -156,17 +156,17 @@
       ]
     },
     {
-      "displayName": "House Siege",
-      "typeName": "R6 Siege",
+      "displayName": "Spooky House",
+      "typeName": "Spooky House",
       "commands": [
-        "Server.SprintEnabled 0",
+        "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
-          "displayName": "R6 Siege",
-          "mapName": "R6 Siege"
+          "displayName": "Spooky House",
+          "mapName": "Spooky House"
         }
       ]
     },
