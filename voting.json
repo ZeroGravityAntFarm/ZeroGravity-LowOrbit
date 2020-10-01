@@ -381,7 +381,7 @@
       ]
     },
     {
-      "displayName": Isolation Point",
+      "displayName": "Isolation Point",
       "typeName": "Isolation Point",
       "commands": [
         "Server.SprintEnabled 1",
