@@ -350,6 +350,21 @@
       ]
     },
     {
+      "displayName": "HP Stan",
+      "typeName": "HP Stan",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "HP Stan",
+          "mapName": "HP Stan"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
