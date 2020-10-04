@@ -156,17 +156,17 @@
       ]
     },
     {
-      "displayName": "House Siege",
-      "typeName": "R6 Siege",
+      "displayName": "Spooky House",
+      "typeName": "Spooky House",
       "commands": [
-        "Server.SprintEnabled 0",
+        "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
-          "displayName": "R6 Siege",
-          "mapName": "R6 Siege"
+          "displayName": "Spooky House",
+          "mapName": "Spooky House"
         }
       ]
     },
@@ -227,6 +227,21 @@
         {
           "displayName": "Warthog Run",
           "mapName": "Warthog Run"
+        }
+      ]
+    },
+    {
+      "displayName": "Fatkid",
+      "typeName": "Indiana Jones",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Indiana Jones",
+          "mapName": "Indiana Jones"
         }
       ]
     },
@@ -350,7 +365,6 @@
         }
       ]
     },
-    },
     {
       "displayName": "Low G KOTH",
       "typeName": "Low G KOTH",
@@ -378,6 +392,21 @@
         {
           "displayName": "Big Smoke Order",
           "mapName": "Big Smoke Order"
+        }
+      ]
+    },
+    {
+      "displayName": "Isolation Point",
+      "typeName": "Isolation Point",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Isolation Point",
+          "mapName": "Isolation Point"
         }
       ]
     },
