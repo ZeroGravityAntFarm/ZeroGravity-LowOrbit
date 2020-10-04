@@ -291,21 +291,6 @@
       ]
     },
     {
-      "displayName": "GravBall",
-      "typeName": "GravBall",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "GravBall",
-          "mapName": "GravBall"
-        }
-      ]
-    },
-    {
       "displayName": "Fatkid",
       "typeName": "Fatbox Ice",
       "commands": [
@@ -336,21 +321,6 @@
       ]
     },
     {
-      "displayName": "Low G KOTH",
-      "typeName": "Low G KOTH",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 4"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Octagram KOTH",
-          "mapName": "Low G KOTH"
-        }
-      ]
-    },
-    {
       "displayName": "Fatkid",
       "typeName": "Big Smoke Order",
       "commands": [
@@ -362,6 +332,20 @@
         {
           "displayName": "Big Smoke Order",
           "mapName": "Big Smoke Order"
+        }
+      ]
+    },
+    {
+      "displayName": "Fiesta Hangar",
+      "typeName": "Fiesta Hangar",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fiesta Hangar",
+          "mapName": "Fiesta Hangar"
         }
       ]
     },
