@@ -335,6 +335,21 @@
         }
       ]
     },
+    },
+    {
+      "displayName": "Fiesta Hangar",
+      "typeName": "Fiesta Hangar",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fiesta Hangar",
+          "mapName": "Fiesta Hangar"
+        }
+      ]
+    },
     {
       "displayName": "Fatkid Infinity",
       "typeName": "Netu",
