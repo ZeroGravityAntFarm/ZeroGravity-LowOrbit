@@ -365,6 +365,36 @@
       ]
     },
     {
+      "displayName": "Double Dash",
+      "typeName": "Double Dash",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 8"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Double Dash",
+          "mapName": "Double Dash"
+        }
+      ]
+    },
+    {
+      "displayName": "Death Run",
+      "typeName": "Death Run v2",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Death Run v2",
+          "mapName": "Death Run v2"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
