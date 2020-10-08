@@ -231,21 +231,6 @@
       ]
     },
     {
-      "displayName": "Wacky River",
-      "typeName": "Wacky River",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Wacky River",
-          "mapName": "Wacky River"
-        }
-      ]
-    },
-    {
       "displayName": "Skycastle",
       "typeName": "Skycastle 6.1RB",
       "commands": [
