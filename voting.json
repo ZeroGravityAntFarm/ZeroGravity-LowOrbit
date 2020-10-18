@@ -380,21 +380,6 @@
       ]
     },
     {
-      "displayName": "Nexus Wars",
-      "typeName": "Nexus Wars",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Nexus Wars",
-          "mapName": "Nexus Wars"
-        }
-      ]
-    },
-    {
       "displayName": "Rooftop Fiesta",
       "typeName": "Rooftop Fiesta",
       "commands": [
@@ -406,6 +391,35 @@
         {
           "displayName": "Rooftop Fiesta",
           "mapName": "Rooftop Fiesta"
+        }
+      ]
+    },
+    {
+      "displayName": "Volcano Derby",
+      "typeName": "Volcano Derby",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Volcano Derby",
+          "mapName": "Volcano Derby"
+        }
+      ]
+    },
+    {
+      "displayName": "Skycastle +",
+      "typeName": "Skycastle +",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Skycastle +",
+          "mapName": "Skycastle +"
         }
       ]
     },
