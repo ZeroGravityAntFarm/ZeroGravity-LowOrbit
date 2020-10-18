@@ -231,21 +231,6 @@
       ]
     },
     {
-      "displayName": "Skycastle",
-      "typeName": "Skycastle 6.1RB",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Skycastle 6.1RB",
-          "mapName": "Skycastle 6.1RB"
-        }
-      ]
-    },
-    {
       "displayName": "DoD",
       "typeName": "DoD",
       "commands": [
