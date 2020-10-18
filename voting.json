@@ -380,6 +380,36 @@
       ]
     },
     {
+      "displayName": "Nexus Wars",
+      "typeName": "Nexus Wars",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Nexus Wars",
+          "mapName": "Nexus Wars"
+        }
+      ]
+    },
+    {
+      "displayName": "Rooftop Fiesta",
+      "typeName": "Rooftop Fiesta",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Rooftop Fiesta",
+          "mapName": "Rooftop Fiesta"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
