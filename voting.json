@@ -380,20 +380,6 @@
       ]
     },
     {
-      "displayName": "Volcano Derby",
-      "typeName": "Volcano Derby",
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Volcano Derby",
-          "mapName": "Volcano Derby"
-        }
-      ]
-    },
-    {
       "displayName": "Skycastle +",
       "typeName": "Skycastle +",
       "commands": [
