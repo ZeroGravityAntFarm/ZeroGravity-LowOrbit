@@ -410,6 +410,21 @@
       ]
     },
     {
+      "displayName": "Disco Night",
+      "typeName": "Disco Night",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Disco Night",
+          "mapName": "Disco Night"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
