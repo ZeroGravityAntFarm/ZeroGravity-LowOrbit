@@ -261,8 +261,8 @@
       ]
     },
     {
-      "displayName": "Fatkid",
-      "typeName": "Fatbox Ice",
+      "displayName": "Termites",
+      "typeName": "Termites",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -270,8 +270,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fatbox Ice",
-          "mapName": "Fatbox Ice"
+          "displayName": "Termites",
+          "mapName": "Termites"
         }
       ]
     },
