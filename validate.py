@@ -13,15 +13,8 @@ def get_folders(folder):
         clean = 1
         return -1
 
-def validate_files(folder):
-    try:
-        return os.listdir(folder)
-    except:
-        clean = 1
-        return -1
-
 for folder in get_folders(directory):
-    for file in validate_files(directory + '\\' + folder):
+    for file in get_folders(directory + '\\' + folder):
         if file not in valid:
             clean = 1
             print('[ERROR] - "' + directory + '\\' + folder + '" contains invalid game file ' + file)
