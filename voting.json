@@ -380,8 +380,8 @@
       ]
     },
     {
-      "displayName": "Disco Night",
-      "typeName": "Disco Night",
+      "displayName": "Crystal Lake",
+      "typeName": "Crystal Lake",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -389,8 +389,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Disco Night",
-          "mapName": "Disco Night"
+          "displayName": "Crystal Lake",
+          "mapName": "Crystal Lake"
         }
       ]
     },
