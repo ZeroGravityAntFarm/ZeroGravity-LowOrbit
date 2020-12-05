@@ -395,7 +395,7 @@
       ]
     },
     {
-      "displayName": "Spooky Dash",
+      "displayName": "Frost Bridge",
       "typeName": "Double Dash S",
       "commands": [
         "Server.SprintEnabled 1",
