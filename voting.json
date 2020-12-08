@@ -410,6 +410,21 @@
       ]
     },
     {
+      "displayName": "Smoothbrain",
+      "typeName": "Smoothbrain",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Smoothbrain",
+          "mapName": "Smoothbrain"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
