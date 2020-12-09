@@ -425,6 +425,21 @@
       ]
     },
     {
+      "displayName": "Gladiator",
+      "typeName": "ReactorPit",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "ReactorPit",
+          "mapName": "ReactorPit"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
