@@ -49,7 +49,7 @@
       "mapName": "s3d_edge"
     }
   ],
-  "Types": [
+  "Types": [ 
     {
       "displayName": "Dyad",
       "typeName": "Dyad",
@@ -62,6 +62,21 @@
         {
           "displayName": "Gladiators",
           "mapName": "Dyad"
+        }
+      ]
+    },
+    {
+      "displayName": "FatKid",
+      "typeName": "Indiana Jones",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 8"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Indiana Jones",
+          "mapName": "Indiana Jones"
         }
       ]
     },
@@ -107,6 +122,21 @@
         {
           "displayName": "Gawdzirra Run",
           "mapName": "Godzilla"
+        }
+      ]
+    },
+    {
+      "displayName": "Godzilla Run",
+      "typeName": "Lizards Nest",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Lizards Nest",
+          "mapName": "Lizards Nest"
         }
       ]
     },
