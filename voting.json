@@ -425,6 +425,21 @@
       ]
     },
     {
+      "displayName": "Space Wars Beta",
+      "typeName": "Space Wars Beta",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Space Wars Beta",
+          "mapName": "Space Wars Beta"
+        }
+      ]
+    },
+    {
       "displayName": "Frost Bridge",
       "typeName": "Double Dash S",
       "commands": [
