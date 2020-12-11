@@ -126,6 +126,21 @@
       ]
     },
     {
+      "displayName": "Godzilla Run",
+      "typeName": "Lizards Nest",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Lizards Nest",
+          "mapName": "Lizards Nest"
+        }
+      ]
+    },
+    {
       "displayName": "Save 1 Bullet",
       "typeName": "5 Levels",
       "commands": [
