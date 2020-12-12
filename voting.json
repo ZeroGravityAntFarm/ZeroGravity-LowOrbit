@@ -425,7 +425,7 @@
       ]
     },
     {
-      "displayName": "Space Wars Beta",
+      "displayName": "Space Wars V1",
       "typeName": "Space Wars Beta",
       "commands": [
         "Server.SprintEnabled 1",
@@ -434,11 +434,26 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Space Wars Beta",
+          "displayName": "Space Wars V1",
           "mapName": "Space Wars Beta"
         }
       ]
     },
+    {
+      "displayName": "Man Cannon",
+      "typeName": "Man Cannon",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Man Cannon",
+          "mapName": "Man Cannon"
+        }
+      ]
+    },    
     {
       "displayName": "Frost Bridge",
       "typeName": "Double Dash S",
