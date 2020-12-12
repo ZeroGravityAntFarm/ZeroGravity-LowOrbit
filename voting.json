@@ -500,6 +500,21 @@
       ]
     },
     {
+      "displayName": "CoreKOTH",
+      "typeName": "CoreKOTH",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "CoreKOTH",
+          "mapName": "CoreKOTH"
+        }
+      ]
+    },
+    {
       "displayName": "Wacky River",
       "typeName": "Wacky River",
       "commands": [
