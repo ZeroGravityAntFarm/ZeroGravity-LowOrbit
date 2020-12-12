@@ -425,7 +425,7 @@
       ]
     },
     {
-      "displayName": "Space Wars Beta",
+      "displayName": "Space Wars V1",
       "typeName": "Space Wars Beta",
       "commands": [
         "Server.SprintEnabled 1",
@@ -434,7 +434,7 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Space Wars Beta",
+          "displayName": "Space Wars V1",
           "mapName": "Space Wars Beta"
         }
       ]
