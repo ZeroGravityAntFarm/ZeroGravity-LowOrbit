@@ -485,8 +485,8 @@
       ]
     },
     {
-      "displayName": "Killbox",
-      "typeName": "Killbox",
+      "displayName": "HL2KillBox",
+      "typeName": "HL2KillBox",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -494,8 +494,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Killbox",
-          "mapName": "Killbox"
+          "displayName": "HL2KillBox",
+          "mapName": "HL2KillBox"
         }
       ]
     },
