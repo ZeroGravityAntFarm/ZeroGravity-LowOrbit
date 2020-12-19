@@ -410,6 +410,21 @@
       ]
     },
     {
+      "displayName": "Mario Kart",
+      "typeName": "Mario Kart",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Bowser's Castle",
+          "mapName": "Mario Kart"
+        }
+      ]
+    },
+    {
       "displayName": "Space Territories",
       "typeName": "Space Zones",
       "commands": [
