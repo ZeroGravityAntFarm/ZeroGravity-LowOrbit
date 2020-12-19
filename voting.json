@@ -395,8 +395,8 @@
       ]
     },
     {
-      "displayName": "Space Wars V1",
-      "typeName": "Space Wars Beta",
+      "displayName": "Space Wars V1.2",
+      "typeName": "Space Wars",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -404,8 +404,23 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Space Wars V1",
-          "mapName": "Space Wars Beta"
+          "displayName": "Space Wars V1.2",
+          "mapName": "Space Wars"
+        }
+      ]
+    },
+    {
+      "displayName": "Space Territories",
+      "typeName": "Space Zones",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Space Territories",
+          "mapName": "Space Zones"
         }
       ]
     },
