@@ -335,17 +335,17 @@
       ]
     },
     {
-      "displayName": "Double Dash",
-      "typeName": "Double Dash",
+      "displayName": "Pirate Yeet",
+      "typeName": "Pirate Yeet",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 8"
+        "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
-          "displayName": "Double Dash",
-          "mapName": "Double Dash"
+          "displayName": "Pirate Yeet",
+          "mapName": "Pirate Yeet"
         }
       ]
     },
