@@ -49,7 +49,7 @@
       "mapName": "s3d_edge"
     }
   ],
-  "Types": [ 
+  "Types": [
     {
       "displayName": "Dyad",
       "typeName": "Dyad",
@@ -438,7 +438,7 @@
           "mapName": "Man Cannon"
         }
       ]
-    },    
+    },
     {
       "displayName": "Frost Bridge",
       "typeName": "Double Dash S",
@@ -500,6 +500,21 @@
       ]
     },
     {
+      "displayName": "Sand Storm",
+      "typeName": "Sand Storm",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Sand Storm",
+          "mapName": "Sand Storm"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
@@ -512,7 +527,7 @@
           "displayName": "Fortress Wars",
           "mapName": "Fortress Wars"
         }
-       ]
-      }
-     ]
+      ]
+    }
+  ]
     }
