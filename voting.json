@@ -335,21 +335,6 @@
       ]
     },
     {
-      "displayName": "Pirate Yeet",
-      "typeName": "Pirate Yeet",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Pirate Yeet",
-          "mapName": "Pirate Yeet"
-        }
-      ]
-    },
-    {
       "displayName": "Death Run",
       "typeName": "Death Run v2",
       "commands": [
@@ -376,21 +361,6 @@
         {
           "displayName": "Rooftop Fiesta",
           "mapName": "Rooftop Fiesta"
-        }
-      ]
-    },
-    {
-      "displayName": "Covie Ship",
-      "typeName": "Covie Ship",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Covie Ship",
-          "mapName": "Covie Ship"
         }
       ]
     },
@@ -511,21 +481,6 @@
         {
           "displayName": "WarThunder",
           "mapName": "WarThunder"
-        }
-      ]
-    },
-    {
-      "displayName": "HL2KillBox",
-      "typeName": "HL2KillBox",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "HL2KillBox",
-          "mapName": "HL2KillBox"
         }
       ]
     },
