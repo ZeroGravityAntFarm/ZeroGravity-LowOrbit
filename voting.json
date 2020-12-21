@@ -335,17 +335,17 @@
       ]
     },
     {
-      "displayName": "Double Dash",
-      "typeName": "Double Dash",
+      "displayName": "Pirate Yeet",
+      "typeName": "Pirate Yeet",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 8"
+        "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
-          "displayName": "Double Dash",
-          "mapName": "Double Dash"
+          "displayName": "Pirate Yeet",
+          "mapName": "Pirate Yeet"
         }
       ]
     },
@@ -410,8 +410,8 @@
       ]
     },
     {
-      "displayName": "Space Wars V1",
-      "typeName": "Space Wars Beta",
+      "displayName": "Space Wars V1.2",
+      "typeName": "Space Wars",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -419,8 +419,38 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Space Wars V1",
-          "mapName": "Space Wars Beta"
+          "displayName": "Space Wars V1.2",
+          "mapName": "Space Wars"
+        }
+      ]
+    },
+    {
+      "displayName": "Mario Kart",
+      "typeName": "Mario Kart",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Bowser's Castle",
+          "mapName": "Mario Kart"
+        }
+      ]
+    },
+    {
+      "displayName": "Space Territories",
+      "typeName": "Space Zones",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Space Territories",
+          "mapName": "Space Zones"
         }
       ]
     },
@@ -485,8 +515,8 @@
       ]
     },
     {
-      "displayName": "CoreKOTH",
-      "typeName": "CoreKOTH",
+      "displayName": "HL2KillBox",
+      "typeName": "HL2KillBox",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -494,8 +524,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "CoreKOTH",
-          "mapName": "CoreKOTH"
+          "displayName": "HL2KillBox",
+          "mapName": "HL2KillBox"
         }
       ]
     },
