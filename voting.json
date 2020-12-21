@@ -410,8 +410,8 @@
       ]
     },
     {
-      "displayName": "Space Territories",
-      "typeName": "Space Zones",
+      "displayName": "Portal Run V5",
+      "typeName": "Portal Run V5",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -419,8 +419,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Space Territories",
-          "mapName": "Space Zones"
+          "displayName": "Aperture Sci V6",
+          "mapName": "Portal Run V5"
         }
       ]
     },
