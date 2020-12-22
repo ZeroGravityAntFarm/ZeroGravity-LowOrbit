@@ -515,6 +515,36 @@
       ]
     },
     {
+      "displayName": "Lonely Predator",
+      "typeName": "Lonely Predator",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Lonely Predator",
+          "mapName": "Lonely Predator"
+        }
+      ]
+    },
+    {
+      "displayName": "SS.Resort Raid",
+      "typeName": "SS.Resort Raid",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "SS.Resort Raid",
+          "mapName": "SS.Resort Raid"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
