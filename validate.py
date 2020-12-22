@@ -1,7 +1,7 @@
 import os
 import json
 
-valid = ['sandbox.map', 'variant.zombiez', 'variant.ctf', 'variant.koth', 'variant.slayer', 'variant.assault', 'variant.vip', 'variant.jugg']
+valid = ['sandbox.map', 'variant.zombiez', 'variant.ctf', 'variant.koth', 'variant.slayer', 'variant.assault', 'variant.vip', 'variant.jugg', 'variant.terries']
 directory = "maps"
 voting = 'voting.json'
 clean = 0
