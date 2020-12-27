@@ -71,12 +71,27 @@
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 8"
+        "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
           "displayName": "Indiana Jones",
           "mapName": "Indiana Jones"
+        }
+      ]
+    },
+    {
+      "displayName": "Frogger",
+      "typeName": "Frogger",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 1"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Sandy Pond",
+          "mapName": "Frogger"
         }
       ]
     },
@@ -410,8 +425,8 @@
       ]
     },
     {
-      "displayName": "Portal Run V5",
-      "typeName": "Portal Run V5",
+      "displayName": "Big Team Battle",
+      "typeName": "BloodGulchHeavy",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -419,8 +434,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Aperture Sci V6",
-          "mapName": "Portal Run V5"
+          "displayName": "Blood Gulch Heavy",
+          "mapName": "BloodGulchHeavy"
         }
       ]
     },
