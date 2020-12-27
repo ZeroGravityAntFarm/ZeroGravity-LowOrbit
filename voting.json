@@ -81,21 +81,6 @@
       ]
     },
     {
-      "displayName": "The Flood",
-      "typeName": "devmap",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "DEVERSUS Town",
-          "mapName": "devmap"
-        }
-      ]
-    },
-    {
       "displayName": "Frogger",
       "typeName": "Frogger",
       "commands": [
