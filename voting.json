@@ -575,7 +575,7 @@
       ]
     },
     {
-      "displayName": AcquaintancePit",
+      "displayName": "AcquaintancePit",
       "typeName": "AcquaintancePit",
       "commands": [
         "Server.SprintEnabled 1",
