@@ -575,6 +575,21 @@
       ]
     },
     {
+      "displayName": AcquaintancePit",
+      "typeName": "AcquaintancePit",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "AcquaintancePit",
+          "mapName": "AcquaintancePit"
+        }
+      ]
+    },
+    {
       "displayName": "Bee Box",
       "typeName": "Bee Box",
       "commands": [
