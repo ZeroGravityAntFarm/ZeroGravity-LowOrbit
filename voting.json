@@ -51,36 +51,6 @@
   ],
   "Types": [
     {
-      "displayName": "Dyad",
-      "typeName": "Dyad",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 8"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Gladiators",
-          "mapName": "Dyad"
-        }
-      ]
-    },
-    {
-      "displayName": "FatKid",
-      "typeName": "Indiana Jones",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Indiana Jones",
-          "mapName": "Indiana Jones"
-        }
-      ]
-    },
-    {
       "displayName": "Frogger",
       "typeName": "Frogger",
       "commands": [
@@ -107,21 +77,6 @@
         {
           "displayName": "EDG Hot Pursuit",
           "mapName": "EDG Hot Pursuit"
-        }
-      ]
-    },
-    {
-      "displayName": "DTH",
-      "typeName": "Deck The Halls",
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Deck The Halls",
-          "mapName": "Deck The Halls"
         }
       ]
     },
@@ -201,6 +156,21 @@
       ]
     },
     {
+      "displayName": "Pirate Yeet CTF",
+      "typeName": "Pirate Yeet",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Pirate Yeet",
+          "mapName": "Pirate Yeet"
+        }
+      ]
+    },
+    {
       "displayName": "Gladiators",
       "typeName": "Friendship Pit",
       "commands": [
@@ -261,21 +231,6 @@
       ]
     },
     {
-      "displayName": "DoD",
-      "typeName": "DoD",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Drive Or Die",
-          "mapName": "DoD"
-        }
-      ]
-    },
-    {
       "displayName": "Castle Wars",
       "typeName": "Castle Wars 1.8",
       "commands": [
@@ -287,21 +242,6 @@
         {
           "displayName": "Castle Wars 1.8",
           "mapName": "Castle Wars 1.8"
-        }
-      ]
-    },
-    {
-      "displayName": "Fatkid Infinity",
-      "typeName": "Netu",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Netu",
-          "mapName": "Netu"
         }
       ]
     },
@@ -376,21 +316,6 @@
         {
           "displayName": "Rooftop Fiesta",
           "mapName": "Rooftop Fiesta"
-        }
-      ]
-    },
-    {
-      "displayName": "Crystal Lake",
-      "typeName": "Crystal Lake",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Crystal Lake",
-          "mapName": "Crystal Lake"
         }
       ]
     },
@@ -515,21 +440,6 @@
       ]
     },
     {
-      "displayName": "Sand Storm",
-      "typeName": "Sand Storm",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Sand Storm",
-          "mapName": "Sand Storm"
-        }
-      ]
-    },
-    {
       "displayName": "Snowed In",
       "typeName": "Snowed In",
       "commands": [
@@ -556,6 +466,21 @@
         {
           "displayName": "Lonely Predator",
           "mapName": "Lonely Predator"
+        }
+      ]
+    },
+    {
+      "displayName": "Sharks",
+      "typeName": "SharksNMinnows",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "N Minnows",
+          "mapName": "SharksNMinnows"
         }
       ]
     },
