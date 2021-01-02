@@ -470,21 +470,6 @@
       ]
     },
     {
-      "displayName": "Lonely Predator",
-      "typeName": "Lonely Predator",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Lonely Predator",
-          "mapName": "Lonely Predator"
-        }
-      ]
-    },
-    {
       "displayName": "Sharks",
       "typeName": "SharksNMinnows",
       "commands": [
@@ -526,21 +511,6 @@
         {
           "displayName": "AcquaintancePit",
           "mapName": "AcquaintancePit"
-        }
-      ]
-    },
-    {
-      "displayName": "Bee Box",
-      "typeName": "Bee Box",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Bee Box",
-          "mapName": "Bee Box"
         }
       ]
     },
