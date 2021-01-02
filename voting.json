@@ -111,6 +111,21 @@
       ]
     },
     {
+      "displayName": "The Flood A1",
+      "typeName": "devmap",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "The Flood A2",
+          "mapName": "devmap"
+        }
+      ]
+    },
+    {
       "displayName": "Fatkid",
       "typeName": "Garys Lab",
       "commands": [
@@ -261,7 +276,7 @@
       ]
     },
     {
-      "displayName": "Fiesta Hangar",
+      "displayName": "Fiesta Hangar 2",
       "typeName": "Fiesta Hangar",
       "commands": [
         "Server.SprintEnabled 1",
@@ -269,7 +284,7 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fiesta Hangar",
+          "displayName": "Fiesta Hangar 2",
           "mapName": "Fiesta Hangar"
         }
       ]
