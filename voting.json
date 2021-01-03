@@ -456,7 +456,7 @@
     },
     {
       "displayName": "Guilty Spark",
-      "typeName": "Guiltly Spark",
+      "typeName": "Guilty Spark",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
