@@ -410,21 +410,6 @@
       ]
     },
     {
-      "displayName": "Snowed In",
-      "typeName": "Snowed In",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Snowed In",
-          "mapName": "Snowed In"
-        }
-      ]
-    },
-    {
       "displayName": "Sharks",
       "typeName": "SharksNMinnows",
       "commands": [
