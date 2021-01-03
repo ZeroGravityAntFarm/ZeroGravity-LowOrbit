@@ -81,21 +81,6 @@
       ]
     },
     {
-      "displayName": "Fatter Kid",
-      "typeName": "Godzilla",
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Gawdzirra Run",
-          "mapName": "Godzilla"
-        }
-      ]
-    },
-    {
       "displayName": "Save 1 Bullet",
       "typeName": "5 Levels",
       "commands": [
@@ -395,21 +380,6 @@
       ]
     },
     {
-      "displayName": "Gladiator",
-      "typeName": "ShieldPit",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "ShieldPit",
-          "mapName": "ShieldPit"
-        }
-      ]
-    },
-    {
       "displayName": "WarThunder",
       "typeName": "WarThunder",
       "commands": [
@@ -481,21 +451,6 @@
         {
           "displayName": "SS.Resort Raid",
           "mapName": "SS.Resort Raid"
-        }
-      ]
-    },
-    {
-      "displayName": "AcquaintancePit",
-      "typeName": "AcquaintancePit",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "AcquaintancePit",
-          "mapName": "AcquaintancePit"
         }
       ]
     },
