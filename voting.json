@@ -320,8 +320,8 @@
       ]
     },
     {
-      "displayName": "Mario Kart",
-      "typeName": "Mario Kart",
+      "displayName": "Edge Race",
+      "typeName": "Edge Race",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -329,8 +329,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Bowser's Castle",
-          "mapName": "Mario Kart"
+          "displayName": "Edge Race",
+          "mapName": "Edge Race"
         }
       ]
     },
@@ -481,6 +481,66 @@
         {
           "displayName": "Team Frogger",
           "mapName": "Team Frogger"
+        }
+      ]
+    },
+    {
+      "displayName": "Paintball Party",
+      "typeName": "Paintball",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 4"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Paintball",
+          "mapName": "Paintball"
+        }
+      ]
+    },
+    {
+      "displayName": "Pond Jumpers",
+      "typeName": "Pond Jumpers",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Pond Jumpers",
+          "mapName": "Pond Jumpers"
+        }
+      ]
+    },
+    {
+      "displayName": "Castle Siege",
+      "typeName": "Castle Siege",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Castle Siege",
+          "mapName": "Castle Siege"
+        }
+      ]
+    },
+    {
+      "displayName": "Snowed In",
+      "typeName": "Snowed In",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Snowed In",
+          "mapName": "Snowed In"
         }
       ]
     },
