@@ -246,7 +246,7 @@
       ]
     },
     {
-      "displayName": "Fiesta Hangar 2",
+      "displayName": "Fiesta Hangar",
       "typeName": "Fiesta Hangar",
       "commands": [
         "Server.SprintEnabled 1",
@@ -254,7 +254,7 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fiesta Hangar 2",
+          "displayName": "Fiesta Hangar",
           "mapName": "Fiesta Hangar"
         }
       ]
