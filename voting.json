@@ -500,21 +500,6 @@
       ]
     },
     {
-      "displayName": "Pond Jumpers",
-      "typeName": "Pond Jumpers",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Pond Jumpers",
-          "mapName": "Pond Jumpers"
-        }
-      ]
-    },
-    {
       "displayName": "Castle Siege",
       "typeName": "Castle Siege",
       "commands": [
