@@ -320,8 +320,8 @@
       ]
     },
     {
-      "displayName": "Edge Race",
-      "typeName": "Edge Race",
+      "displayName": "Boardwalk Basin",
+      "typeName": "Boardwalk Basin",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -329,8 +329,23 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Edge Race",
-          "mapName": "Edge Race"
+          "displayName": "Boardwalk Basin",
+          "mapName": "Boardwalk Basin"
+        }
+      ]
+    },
+    {
+      "displayName": "Koopa Castle",
+      "typeName": "Koopa Castle",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Koopa Castle",
+          "mapName": "Koopa Castle"
         }
       ]
     },
