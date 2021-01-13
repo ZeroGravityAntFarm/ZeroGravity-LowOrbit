@@ -530,21 +530,6 @@
       ]
     },
     {
-      "displayName": "Halo Rings DM",
-      "typeName": "Halo Rings DM",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Halo Rings DM",
-          "mapName": "Halo Rings DM"
-        }
-      ]
-    },
-    {
       "displayName": "Snowed In",
       "typeName": "Snowed In",
       "commands": [
