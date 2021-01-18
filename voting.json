@@ -201,6 +201,21 @@
       ]
     },
     {
+      "displayName": "Fatkid",
+      "typeName": "Fatkid Level III",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fatkid Level III",
+          "mapName": "Fatkid Level III"
+        }
+      ]
+    },
+    {
       "displayName": "Halo 3",
       "typeName": "Warthog Run",
       "commands": [
