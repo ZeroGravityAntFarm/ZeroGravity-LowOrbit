@@ -500,21 +500,6 @@
       ]
     },
     {
-      "displayName": "Team Frogger",
-      "typeName": "Team Frogger",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Team Frogger",
-          "mapName": "Team Frogger"
-        }
-      ]
-    },
-    {
       "displayName": "Paintball Party",
       "typeName": "Paintball",
       "commands": [
@@ -541,21 +526,6 @@
         {
           "displayName": "Castle Siege",
           "mapName": "Castle Siege"
-        }
-      ]
-    },
-    {
-      "displayName": "Bee Box",
-      "typeName": "Bee Box",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Bee Box",
-          "mapName": "Bee Box"
         }
       ]
     },
