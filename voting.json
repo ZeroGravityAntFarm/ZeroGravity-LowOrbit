@@ -201,6 +201,21 @@
       ]
     },
     {
+      "displayName": "Fatkid",
+      "typeName": "Fatkid Level III",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fatkid Level III",
+          "mapName": "Fatkid Level III"
+        }
+      ]
+    },
+    {
       "displayName": "Halo 3",
       "typeName": "Warthog Run",
       "commands": [
@@ -320,8 +335,8 @@
       ]
     },
     {
-      "displayName": "Edge Race",
-      "typeName": "Edge Race",
+      "displayName": "Boardwalk Basin",
+      "typeName": "Boardwalk Basin",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -329,8 +344,23 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Edge Race",
-          "mapName": "Edge Race"
+          "displayName": "Boardwalk Basin",
+          "mapName": "Boardwalk Basin"
+        }
+      ]
+    },
+    {
+      "displayName": "Koopa Castle",
+      "typeName": "Koopa Castle",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Koopa Castle",
+          "mapName": "Koopa Castle"
         }
       ]
     },
@@ -470,21 +500,6 @@
       ]
     },
     {
-      "displayName": "Team Frogger",
-      "typeName": "Team Frogger",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Team Frogger",
-          "mapName": "Team Frogger"
-        }
-      ]
-    },
-    {
       "displayName": "Paintball Party",
       "typeName": "Paintball",
       "commands": [
@@ -511,21 +526,6 @@
         {
           "displayName": "Castle Siege",
           "mapName": "Castle Siege"
-        }
-      ]
-    },
-    {
-      "displayName": "Bee Box",
-      "typeName": "Bee Box",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Bee Box",
-          "mapName": "Bee Box"
         }
       ]
     },
