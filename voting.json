@@ -530,6 +530,21 @@
       ]
     },
     {
+      "displayName": "BoomBox",
+      "typeName": "BoomBox",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "BoomBox",
+          "mapName": "BoomBox"
+        }
+      ]
+    },
+    {
       "displayName": "Snowed In",
       "typeName": "Snowed In",
       "commands": [
