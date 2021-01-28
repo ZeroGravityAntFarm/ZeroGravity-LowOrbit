@@ -530,6 +530,21 @@
       ]
     },
     {
+      "displayName": "Jenga Arena",
+      "typeName": "Jenga Arena",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Jenga Arena",
+          "mapName": "Jenga Arena"
+        }
+      ]
+    },
+    {
       "displayName": "Snowed In",
       "typeName": "Snowed In",
       "commands": [
