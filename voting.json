@@ -1,608 +1,558 @@
 {
-  "Maps": [
-    {
-      "displayName": "Standoff",
-      "mapName": "bunkerworld"
-    },
-    {
-      "displayName": "Valhalla",
-      "mapName": "riverworld"
-    },
-    {
-      "displayName": "Guardian",
-      "mapName": "guardian"
-    },
-    {
-      "displayName": "Last Resort",
-      "mapName": "zanzibar"
-    },
-    {
-      "displayName": "Sandtrap",
-      "mapName": "shrine"
-    },
-    {
-      "displayName": "Diamondback",
-      "mapName": "s3d_avalanche"
-    },
-    {
-      "displayName": "High Ground",
-      "mapName": "deadlock"
-    },
-    {
-      "displayName": "Ice Box",
-      "mapName": "s3d_turf"
-    },
-    {
-      "displayName": "Narrows",
-      "mapName": "chill"
-    },
-    {
-      "displayName": "The Pit",
-      "mapName": "cyberdyne"
-    },
-    {
-      "displayName": "Reactor",
-      "mapName": "s3d_reactor"
-    },
-    {
-      "displayName": "Edge",
-      "mapName": "s3d_edge"
-    }
-  ],
-  "Types": [
-    {
-      "displayName": "Frogger",
-      "typeName": "Frogger",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 1"
-      ],
-      "SpecificMaps": [
+    "Maps": [{
+            "displayName": "Standoff",
+            "mapName": "bunkerworld"
+        },
         {
-          "displayName": "Sandy Pond",
-          "mapName": "Frogger"
-        }
-      ]
-    },
-    {
-      "displayName": "Hot Pursuit",
-      "typeName": "EDG Hot Pursuit",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 8"
-      ],
-      "SpecificMaps": [
+            "displayName": "Valhalla",
+            "mapName": "riverworld"
+        },
         {
-          "displayName": "EDG Hot Pursuit",
-          "mapName": "EDG Hot Pursuit"
-        }
-      ]
-    },
-    {
-      "displayName": "Save 1 Bullet",
-      "typeName": "5 Levels",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Guardian",
+            "mapName": "guardian"
+        },
         {
-          "displayName": "5 Levels",
-          "mapName": "5 Levels"
-        }
-      ]
-    },
-    {
-      "displayName": "Fatkid",
-      "typeName": "Garys Lab",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 8"
-      ],
-      "SpecificMaps": [
+            "displayName": "Last Resort",
+            "mapName": "zanzibar"
+        },
         {
-          "displayName": "Garys Lab",
-          "mapName": "Garys Lab"
-        }
-      ]
-    },
-    {
-      "displayName": "Vampire Slayer",
-      "typeName": "Altiorem",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 4"
-      ],
-      "SpecificMaps": [
+            "displayName": "Sandtrap",
+            "mapName": "shrine"
+        },
         {
-          "displayName": "Altiorem",
-          "mapName": "Altiorem"
-        }
-      ]
-    },
-    {
-      "displayName": "House Siege",
-      "typeName": "R6 Siege",
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Diamondback",
+            "mapName": "s3d_avalanche"
+        },
         {
-          "displayName": "R6 Siege",
-          "mapName": "R6 Siege"
-        }
-      ]
-    },
-    {
-      "displayName": "Pirate Yeet CTF",
-      "typeName": "Pirate Yeet",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "High Ground",
+            "mapName": "deadlock"
+        },
         {
-          "displayName": "Pirate Yeet",
-          "mapName": "Pirate Yeet"
-        }
-      ]
-    },
-    {
-      "displayName": "Gladiators",
-      "typeName": "Friendship Pit",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Ice Box",
+            "mapName": "s3d_turf"
+        },
         {
-          "displayName": "Friendship Pit",
-          "mapName": "Friendship Pit"
-        }
-      ]
-    },
-    {
-      "displayName": "Wacky Races",
-      "typeName": "Sundown Lake",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Narrows",
+            "mapName": "chill"
+        },
         {
-          "displayName": "Sundown Lake",
-          "mapName": "Sundown Lake"
-        }
-      ]
-    },
-    {
-      "displayName": "Save a bullet",
-      "typeName": "Sky Halla",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "The Pit",
+            "mapName": "cyberdyne"
+        },
         {
-          "displayName": "Sky Halla",
-          "mapName": "Sky Halla"
-        }
-      ]
-    },
-    {
-      "displayName": "Fatkid",
-      "typeName": "Fatkid Level III",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Reactor",
+            "mapName": "s3d_reactor"
+        },
         {
-          "displayName": "Fatkid Level III",
-          "mapName": "Fatkid Level III"
+            "displayName": "Edge",
+            "mapName": "s3d_edge"
         }
-      ]
-    },
-    {
-      "displayName": "Halo 3",
-      "typeName": "Warthog Run",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+    ],
+    "Types": [{
+            "displayName": "Frogger",
+            "typeName": "Frogger",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 1"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Sandy Pond",
+                "mapName": "Frogger"
+            }]
+        },
         {
-          "displayName": "Warthog Run",
-          "mapName": "Warthog Run"
-        }
-      ]
-    },
-    {
-      "displayName": "Castle Wars",
-      "typeName": "Castle Wars 1.8",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Hot Pursuit",
+            "typeName": "EDG Hot Pursuit",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 8"
+            ],
+            "SpecificMaps": [{
+                "displayName": "EDG Hot Pursuit",
+                "mapName": "EDG Hot Pursuit"
+            }]
+        },
         {
-          "displayName": "Castle Wars 1.8",
-          "mapName": "Castle Wars 1.8"
-        }
-      ]
-    },
-    {
-      "displayName": "Fatkid",
-      "typeName": "Big Smoke Order",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Save 1 Bullet",
+            "typeName": "5 Levels",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "5 Levels",
+                "mapName": "5 Levels"
+            }]
+        },
         {
-          "displayName": "Big Smoke Order",
-          "mapName": "Big Smoke Order"
-        }
-      ]
-    },
-    {
-      "displayName": "Fiesta Hangar",
-      "typeName": "Fiesta Hangar",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0"
-      ],
-      "SpecificMaps": [
+            "displayName": "Fatkid",
+            "typeName": "Garys Lab",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 8"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Garys Lab",
+                "mapName": "Garys Lab"
+            }]
+        },
         {
-          "displayName": "Fiesta Hangar",
-          "mapName": "Fiesta Hangar"
-        }
-      ]
-    },
-    {
-      "displayName": "HP Stan",
-      "typeName": "HP Stan",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Vampire Slayer",
+            "typeName": "Altiorem",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 4"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Altiorem",
+                "mapName": "Altiorem"
+            }]
+        },
         {
-          "displayName": "HP Stan",
-          "mapName": "HP Stan"
-        }
-      ]
-    },
-    {
-      "displayName": "Death Run",
-      "typeName": "Death Run v2",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "House Siege",
+            "typeName": "R6 Siege",
+            "commands": [
+                "Server.SprintEnabled 0",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "R6 Siege",
+                "mapName": "R6 Siege"
+            }]
+        },
         {
-          "displayName": "Death Run v2",
-          "mapName": "Death Run v2"
-        }
-      ]
-    },
-    {
-      "displayName": "Rooftop Fiesta",
-      "typeName": "Rooftop Fiesta",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Pirate Yeet CTF",
+            "typeName": "Pirate Yeet",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Pirate Yeet",
+                "mapName": "Pirate Yeet"
+            }]
+        },
         {
-          "displayName": "Rooftop Fiesta",
-          "mapName": "Rooftop Fiesta"
-        }
-      ]
-    },
-    {
-      "displayName": "Space Wars V1.2",
-      "typeName": "Space Wars",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Gladiators",
+            "typeName": "Friendship Pit",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Friendship Pit",
+                "mapName": "Friendship Pit"
+            }]
+        },
         {
-          "displayName": "Space Wars V1.2",
-          "mapName": "Space Wars"
-        }
-      ]
-    },
-    {
-      "displayName": "Boardwalk Basin",
-      "typeName": "Boardwalk Basin",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Wacky Races",
+            "typeName": "Sundown Lake",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Sundown Lake",
+                "mapName": "Sundown Lake"
+            }]
+        },
         {
-          "displayName": "Boardwalk Basin",
-          "mapName": "Boardwalk Basin"
-        }
-      ]
-    },
-    {
-      "displayName": "Big Team Battle",
-      "typeName": "BloodGulchHeavy",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Save a bullet",
+            "typeName": "Sky Halla",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Sky Halla",
+                "mapName": "Sky Halla"
+            }]
+        },
         {
-          "displayName": "Blood Gulch Heavy",
-          "mapName": "BloodGulchHeavy"
-        }
-      ]
-    },
-    {
-      "displayName": "Man Cannon",
-      "typeName": "Man Cannon",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Fatkid",
+            "typeName": "Fatkid Level III",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Fatkid Level III",
+                "mapName": "Fatkid Level III"
+            }]
+        },
         {
-          "displayName": "Man Cannon",
-          "mapName": "Man Cannon"
-        }
-      ]
-    },
-    {
-      "displayName": "Frost Bridge",
-      "typeName": "Double Dash S",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 8"
-      ],
-      "SpecificMaps": [
+            "displayName": "Halo 3",
+            "typeName": "Warthog Run",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Warthog Run",
+                "mapName": "Warthog Run"
+            }]
+        },
         {
-          "displayName": "Double Dash S",
-          "mapName": "Double Dash S"
-        }
-      ]
-    },
-    {
-      "displayName": "WarThunder",
-      "typeName": "WarThunder",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Castle Wars",
+            "typeName": "Castle Wars 1.8",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Castle Wars 1.8",
+                "mapName": "Castle Wars 1.8"
+            }]
+        },
         {
-          "displayName": "WarThunder",
-          "mapName": "WarThunder"
-        }
-      ]
-    },
-    {
-      "displayName": "Wacky River",
-      "typeName": "Wacky River",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Fatkid",
+            "typeName": "Big Smoke Order",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Big Smoke Order",
+                "mapName": "Big Smoke Order"
+            }]
+        },
         {
-          "displayName": "Wacky River",
-          "mapName": "Wacky River"
-        }
-      ]
-    },
-    {
-      "displayName": "Sharks",
-      "typeName": "SharksNMinnows",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Fiesta Hangar",
+            "typeName": "Fiesta Hangar",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Fiesta Hangar",
+                "mapName": "Fiesta Hangar"
+            }]
+        },
         {
-          "displayName": "N Minnows",
-          "mapName": "SharksNMinnows"
-        }
-      ]
-    },
-    {
-      "displayName": "SS.Resort Raid",
-      "typeName": "SS.Resort Raid",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "HP Stan",
+            "typeName": "HP Stan",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "HP Stan",
+                "mapName": "HP Stan"
+            }]
+        },
         {
-          "displayName": "SS.Resort Raid",
-          "mapName": "SS.Resort Raid"
-        }
-      ]
-    },
-    {
-      "displayName": "Guilty Spark",
-      "typeName": "Guilty Spark",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Death Run",
+            "typeName": "Death Run v2",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Death Run v2",
+                "mapName": "Death Run v2"
+            }]
+        },
         {
-          "displayName": "Control Room",
-          "mapName": "Guilty Spark"
-        }
-      ]
-    },
-    {
-      "displayName": "Fat Kid",
-      "typeName": "EngineRoom",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Rooftop Fiesta",
+            "typeName": "Rooftop Fiesta",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Rooftop Fiesta",
+                "mapName": "Rooftop Fiesta"
+            }]
+        },
         {
-          "displayName": "Engine Room",
-          "mapName": "EngineRoom"
-        }
-      ]
-    },
-    {
-      "displayName": "Paintball Party",
-      "typeName": "Paintball",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 4"
-      ],
-      "SpecificMaps": [
+            "displayName": "Space Wars V1.2",
+            "typeName": "Space Wars",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Space Wars V1.2",
+                "mapName": "Space Wars"
+            }]
+        },
         {
-          "displayName": "Paintball",
-          "mapName": "Paintball"
-        }
-      ]
-    },
-    {
-      "displayName": "Castle Siege",
-      "typeName": "Castle Siege",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Boardwalk Basin",
+            "typeName": "Boardwalk Basin",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Boardwalk Basin",
+                "mapName": "Boardwalk Basin"
+            }]
+        },
         {
-          "displayName": "Castle Siege",
-          "mapName": "Castle Siege"
-        }
-      ]
-    },
-    {
-      "displayName": "BoomBox",
-      "typeName": "BoomBox",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Big Team Battle",
+            "typeName": "BloodGulchHeavy",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Blood Gulch Heavy",
+                "mapName": "BloodGulchHeavy"
+            }]
+        },
         {
-          "displayName": "BoomBox",
-          "mapName": "BoomBox"
-        }
-      ]
-    },
-    {
-      "displayName": "Jenga Arena",
-      "typeName": "Jenga Arena",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Man Cannon",
+            "typeName": "Man Cannon",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Man Cannon",
+                "mapName": "Man Cannon"
+            }]
+        },
         {
-          "displayName": "Jenga Arena",
-          "mapName": "Jenga Arena"
-        }
-      ]
-    },
-    {
-      "displayName": "SkyCastle",
-      "typeName": "SkyCastle",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Frost Bridge",
+            "typeName": "Double Dash S",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 8"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Double Dash S",
+                "mapName": "Double Dash S"
+            }]
+        },
         {
-          "displayName": "SkyCastle",
-          "mapName": "SkyCastle"
-        }
-      ]
-    },
-    {
-      "displayName": "Snowed In",
-      "typeName": "Snowed In",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "WarThunder",
+            "typeName": "WarThunder",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "WarThunder",
+                "mapName": "WarThunder"
+            }]
+        },
         {
-          "displayName": "Snowed In",
-          "mapName": "Snowed In"
-        }
-      ]
-    },
-    {
-      "displayName": "Speed Halo",
-      "typeName": "Speedhalla",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Wacky River",
+            "typeName": "Wacky River",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Wacky River",
+                "mapName": "Wacky River"
+            }]
+        },
         {
-          "displayName": "Speedhalla",
-          "mapName": "Speedhalla"
-        }
-      ]
-    },
-    {
-      "displayName": "Fortress Wars",
-      "typeName": "Fortress Wars",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 1",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
+            "displayName": "Sharks",
+            "typeName": "SharksNMinnows",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "N Minnows",
+                "mapName": "SharksNMinnows"
+            }]
+        },
         {
-          "displayName": "Fortress Wars",
-          "mapName": "Fortress Wars"
+            "displayName": "SS.Resort Raid",
+            "typeName": "SS.Resort Raid",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "SS.Resort Raid",
+                "mapName": "SS.Resort Raid"
+            }]
+        },
+        {
+            "displayName": "Guilty Spark",
+            "typeName": "Guilty Spark",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Control Room",
+                "mapName": "Guilty Spark"
+            }]
+        },
+        {
+            "displayName": "Fat Kid",
+            "typeName": "EngineRoom",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Engine Room",
+                "mapName": "EngineRoom"
+            }]
+        },
+        {
+            "displayName": "Paintball Party",
+            "typeName": "Paintball",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 4"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Paintball",
+                "mapName": "Paintball"
+            }]
+        },
+        {
+            "displayName": "Castle Siege",
+            "typeName": "Castle Siege",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Castle Siege",
+                "mapName": "Castle Siege"
+            }]
+        },
+        {
+            "displayName": "BoomBox",
+            "typeName": "BoomBox",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "BoomBox",
+                "mapName": "BoomBox"
+            }]
+        },
+        {
+            "displayName": "Jenga Arena",
+            "typeName": "Jenga Arena",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Jenga Arena",
+                "mapName": "Jenga Arena"
+            }]
+        },
+        {
+            "displayName": "SkyCastle",
+            "typeName": "SkyCastle",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "SkyCastle",
+                "mapName": "SkyCastle"
+            }]
+        },
+        {
+            "displayName": "Snowed In",
+            "typeName": "Snowed In",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Snowed In",
+                "mapName": "Snowed In"
+            }]
+        },
+        {
+            "displayName": "Speed Halo",
+            "typeName": "Speedhalla",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Speedhalla",
+                "mapName": "Speedhalla"
+            }]
+        },
+        {
+            "displayName": "Flag Rally",
+            "typeName": "Overwrought",
+            "commands": [
+                "Server.SprintEnabled 0",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Overwrought",
+                "mapName": "Overwrought"
+            }]
+        },
+        {
+            "displayName": "FFA Fiesta",
+            "typeName": "Guardian Reborn",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 1  ",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Guardian Reborn",
+                "mapName": "Guardian Reborn"
+            }]
+        },
+        {
+            "displayName": "Fortress Wars",
+            "typeName": "Fortress Wars",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 1",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Fortress Wars",
+                "mapName": "Fortress Wars"
+            }]
         }
-      ]
-    }
-  ]
+    ]
 }
