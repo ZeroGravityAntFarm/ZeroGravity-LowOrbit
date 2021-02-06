@@ -575,6 +575,21 @@
       ]
     },
     {
+      "displayName": "Speed Halo",
+      "typeName": "Speedhalla",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Speedhalla",
+          "mapName": "Speedhalla"
+        }
+      ]
+    },
+    {
       "displayName": "Fortress Wars",
       "typeName": "Fortress Wars",
       "commands": [
