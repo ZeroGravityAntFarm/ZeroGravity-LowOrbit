@@ -308,19 +308,6 @@
             }]
         },
         {
-            "displayName": "Big Team Battle",
-            "typeName": "BloodGulchHeavy",
-            "commands": [
-                "Server.SprintEnabled 1",
-                "Server.AssassinationEnabled 0",
-                "Server.NumberOfTeams 2"
-            ],
-            "SpecificMaps": [{
-                "displayName": "Blood Gulch Heavy",
-                "mapName": "BloodGulchHeavy"
-            }]
-        },
-        {
             "displayName": "Man Cannon",
             "typeName": "Man Cannon",
             "commands": [
