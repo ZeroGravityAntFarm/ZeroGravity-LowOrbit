@@ -529,6 +529,19 @@
             }]
         },
         {
+            "displayName": "Bouncy Box",
+            "typeName": "Bouncy Box",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 1  ",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Bouncy Box",
+                "mapName": "Bouncy Box"
+            }]
+        },
+        {
             "displayName": "Fortress Wars",
             "typeName": "Fortress Wars",
             "commands": [
