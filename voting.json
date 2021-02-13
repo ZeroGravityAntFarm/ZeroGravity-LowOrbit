@@ -438,19 +438,6 @@
             }]
         },
         {
-            "displayName": "BoomBox",
-            "typeName": "BoomBox",
-            "commands": [
-                "Server.SprintEnabled 1",
-                "Server.AssassinationEnabled 0",
-                "Server.NumberOfTeams 2"
-            ],
-            "SpecificMaps": [{
-                "displayName": "BoomBox",
-                "mapName": "BoomBox"
-            }]
-        },
-        {
             "displayName": "Jenga Arena",
             "typeName": "Jenga Arena",
             "commands": [
@@ -520,8 +507,7 @@
             "typeName": "Guardian Reborn",
             "commands": [
                 "Server.SprintEnabled 1",
-                "Server.AssassinationEnabled 1  ",
-                "Server.NumberOfTeams 2"
+                "Server.AssassinationEnabled 0",
             ],
             "SpecificMaps": [{
                 "displayName": "Guardian Reborn",
@@ -533,7 +519,7 @@
             "typeName": "Bouncy Box",
             "commands": [
                 "Server.SprintEnabled 1",
-                "Server.AssassinationEnabled 1  ",
+                "Server.AssassinationEnabled 1",
                 "Server.NumberOfTeams 2"
             ],
             "SpecificMaps": [{
@@ -546,7 +532,7 @@
             "typeName": "Fortress Wars",
             "commands": [
                 "Server.SprintEnabled 1",
-                "Server.AssassinationEnabled 1",
+                "Server.AssassinationEnabled 0",
                 "Server.NumberOfTeams 2"
             ],
             "SpecificMaps": [{
