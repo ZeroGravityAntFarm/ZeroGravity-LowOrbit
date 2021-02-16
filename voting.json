@@ -528,6 +528,19 @@
             }]
         },
         {
+            "displayName": "LSA Race",
+            "typeName": "LSA Race",
+            "commands": [
+                "Server.SprintEnabled 0",
+                "Server.AssassinationEnabled 0",
+                "Server.NumberOfTeams 2"
+            ],
+            "SpecificMaps": [{
+                "displayName": "LSA Race",
+                "mapName": "LSA Race"
+            }]
+        },
+        {
             "displayName": "Fortress Wars",
             "typeName": "Fortress Wars",
             "commands": [
