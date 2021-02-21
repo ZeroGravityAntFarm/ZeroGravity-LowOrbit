@@ -243,6 +243,18 @@
             }]
         },
         {
+            "displayName": "Covenant Factory",
+            "typeName": "Covenant Factory",
+            "commands": [
+                "Server.SprintEnabled 1",
+                "Server.AssassinationEnabled 0"
+            ],
+            "SpecificMaps": [{
+                "displayName": "Covenant Factory",
+                "mapName": "Covenant Factory"
+            }]
+        },
+        {
             "displayName": "HP Stan",
             "typeName": "HP Stan",
             "commands": [
