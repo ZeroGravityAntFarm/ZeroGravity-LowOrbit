@@ -546,6 +546,36 @@
       ]
     },
     {
+      "displayName": "Covenant Factory",
+      "typeName": "Covenant Factory",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Covenant Factory",
+          "mapName": "Covenant Factory"
+        }
+      ]
+    },
+    {
+      "displayName": "King Slayer",
+      "typeName": "King Slayer",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "King Slayer",
+          "mapName": "King Slayer"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
