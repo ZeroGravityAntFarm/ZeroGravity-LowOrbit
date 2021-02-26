@@ -1,4 +1,3 @@
-
 {
   "Maps": [
     {
@@ -52,8 +51,8 @@
   ],
   "Types": [
     {
-      "displayName": "Fatkid",
-      "typeName": "Fatkid Level III",
+      "displayName": "Hot Pursuit",
+      "typeName": "Hot Pursuit DM",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -61,8 +60,488 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fatkid Level III",
-          "mapName": "Fatkid Level III"
+          "displayName": "Hot Pursuit DM",
+          "mapName": "Hot Pursuit DM"
+        }
+      ]
+    },
+    {
+      "displayName": "Hunger Games",
+      "typeName": "Cornucopia",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Cornucopia",
+          "mapName": "Cornucopia"
+        }
+      ]
+    },
+    {
+      "displayName": "Death Run",
+      "typeName": "Death Run",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Death Run v1",
+          "mapName": "Death Run"
+        }
+      ]
+    },
+    {
+      "displayName": "Death Run",
+      "typeName": "Death Run v2",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Death Run v2",
+          "mapName": "Death Run v2"
+        }
+      ]
+    },
+    {
+      "displayName": "Dodgev1.1",
+      "typeName": "Dodgeball v1.1",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Dodgeball v1.1",
+          "mapName": "Dodgeball v1.1"
+        }
+      ]
+    },
+    {
+      "displayName": "DK",
+      "typeName": "Donkey Kong",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Donkey Kong",
+          "mapName": "Donkey Kong"
+        }
+      ]
+    },
+    {
+      "displayName": "Drive!",
+      "typeName": "Drive! Rocketway",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Drive! Rocketway",
+          "mapName": "Drive! Rocketway"
+        }
+      ]
+    },
+    {
+      "displayName": "Hot Pursuit",
+      "typeName": "Hot Pursuit Beach Resort",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Beach Resort",
+          "mapName": "Hot Pursuit Beach Resort"
+        }
+      ]
+    },
+    {
+      "displayName": "Quick Draw",
+      "typeName": "Quick Draw",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Octagon",
+          "mapName": "Quick Draw"
+        }
+      ]
+    },
+    {
+      "displayName": "Octagon",
+      "typeName": "Quick Draw Fiesta",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Quick Draw Fiesta",
+          "mapName": "Quick Draw Fiesta"
+        }
+      ]
+    },
+    {
+      "displayName": "DuckHuntV1",
+      "typeName": "Duck Hunt",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Duck Hunt",
+          "mapName": "Duck Hunt"
+        }
+      ]
+    },
+    {
+      "displayName": "Escape!",
+      "typeName": "Escape The House2",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Escape The House2",
+          "mapName": "Escape The House2"
+        }
+      ]
+    },
+    {
+      "displayName": "Pests!",
+      "typeName": "Exterminator",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Exterminator",
+          "mapName": "Exterminator"
+        }
+      ]
+    },
+    {
+      "displayName": "Fat Kid",
+      "typeName": "Fat Captain",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fat Captain",
+          "mapName": "Fat Captain"
+        }
+      ]
+    },
+    {
+      "displayName": "Superman",
+      "typeName": "Superman Training",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Superman Training",
+          "mapName": "Superman Training"
+        }
+      ]
+    },
+    {
+      "displayName": "FatKid",
+      "typeName": "FatKidRevenge",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "FatKidRevenge",
+          "mapName": "FatKidRevenge"
+        }
+      ]
+    },
+    {
+      "displayName": "FlySwat",
+      "typeName": "Fly Swatter",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fly Swatter",
+          "mapName": "Fly Swatter"
+        }
+      ]
+    },
+    {
+      "displayName": "Frogger",
+      "typeName": "Frogger",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Sandy Pond",
+          "mapName": "Frogger"
+        }
+      ]
+    },
+    {
+      "displayName": "Fat Kid",
+      "typeName": "Fat Kid Origins",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fat Kid Origins",
+          "mapName": "Fat Kid Origins"
+        }
+      ]
+    },
+    {
+      "displayName": "Fat Kid",
+      "typeName": "FatKid Presidio v3",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "FatKid Presidio v3",
+          "mapName": "FatKid Presidio v3"
+        }
+      ]
+    },
+    {
+      "displayName": "Fat Kid",
+      "typeName": "Garys Lab",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Garys Lab",
+          "mapName": "Garys Lab"
+        }
+      ]
+    },
+    {
+      "displayName": "Ice Cream Man",
+      "typeName": "Ice Cream Man",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Kiddie Lane",
+          "mapName": "Ice Cream Man"
+        }
+      ]
+    },
+    {
+      "displayName": "Jump",
+      "typeName": "Jump Rope",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Jump Rope",
+          "mapName": "Jump Rope"
+        }
+      ]
+    },
+    {
+      "displayName": "Hide",
+      "typeName": "Ghostbusters!",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Ghostbusters!",
+          "mapName": "Ghostbusters!"
+        }
+      ]
+    },
+    {
+      "displayName": "DTH",
+      "typeName": "Deck The Halls",
+      "commands": [
+        "Server.SprintEnabled 0",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Deck The Halls",
+          "mapName": "Deck The Halls"
+        }
+      ]
+    },
+    {
+      "displayName": "Omega",
+      "typeName": "Omega Journey 3",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Omega Journey 3",
+          "mapName": "Omega Journey 3"
+        }
+      ]
+    },
+    {
+      "displayName": "CTF",
+      "typeName": "Rainbow Castle",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Rainbow Castle",
+          "mapName": "Rainbow Castle"
+        }
+      ]
+    },
+    {
+      "displayName": "Speed",
+      "typeName": "Speed Halo",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Speed Halo",
+          "mapName": "Speed Halo"
+        }
+      ]
+    },
+    {
+      "displayName": "Sneks",
+      "typeName": "Splatter Snek",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Splatter Snek",
+          "mapName": "Splatter Snek"
+        }
+      ]
+    },
+    {
+      "displayName": "sawdust",
+      "typeName": "Termites",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Termites",
+          "mapName": "Termites"
+        }
+      ]
+    },
+    {
+      "displayName": "1v1",
+      "typeName": "Tournament",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Tournament",
+          "mapName": "Tournament"
+        }
+      ]
+    },
+    {
+      "displayName": "ToyCars",
+      "typeName": "Toy Story Race",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Toy Story Race",
+          "mapName": "Toy Story Race"
+        }
+      ]
+    },
+    {
+      "displayName": "Infection",
+      "typeName": "The Train",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "The Train",
+          "mapName": "The Train"
         }
       ]
     },
