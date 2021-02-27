@@ -276,21 +276,6 @@
       ]
     },
     {
-      "displayName": "FatKid",
-      "typeName": "FatKidRevenge",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "FatKidRevenge",
-          "mapName": "FatKidRevenge"
-        }
-      ]
-    },
-    {
       "displayName": "FlySwat",
       "typeName": "Fly Swatter",
       "commands": [
@@ -332,21 +317,6 @@
         {
           "displayName": "Fat Kid Origins",
           "mapName": "Fat Kid Origins"
-        }
-      ]
-    },
-    {
-      "displayName": "Fat Kid",
-      "typeName": "FatKid Presidio v3",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "FatKid Presidio v3",
-          "mapName": "FatKid Presidio v3"
         }
       ]
     },
