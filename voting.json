@@ -111,21 +111,6 @@
       ]
     },
     {
-      "displayName": "Dodgev1.1",
-      "typeName": "Dodgeball v1.1",
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Dodgeball v1.1",
-          "mapName": "Dodgeball v1.1"
-        }
-      ]
-    },
-    {
       "displayName": "DK",
       "typeName": "Donkey Kong",
       "commands": [
@@ -185,21 +170,7 @@
         }
       ]
     },
-    {
-      "displayName": "Octagon",
       "typeName": "Quick Draw Fiesta",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Quick Draw Fiesta",
-          "mapName": "Quick Draw Fiesta"
-        }
-      ]
-    },
     {
       "displayName": "DuckHuntV1",
       "typeName": "Duck Hunt",
@@ -307,21 +278,6 @@
     },
     {
       "displayName": "Fat Kid",
-      "typeName": "Fat Kid Origins",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Fat Kid Origins",
-          "mapName": "Fat Kid Origins"
-        }
-      ]
-    },
-    {
-      "displayName": "Fat Kid",
       "typeName": "Garys Lab",
       "commands": [
         "Server.SprintEnabled 1",
@@ -332,21 +288,6 @@
         {
           "displayName": "Garys Lab",
           "mapName": "Garys Lab"
-        }
-      ]
-    },
-    {
-      "displayName": "Ice Cream Man",
-      "typeName": "Ice Cream Man",
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Kiddie Lane",
-          "mapName": "Ice Cream Man"
         }
       ]
     },
@@ -411,8 +352,8 @@
       ]
     },
     {
-      "displayName": "CTF",
-      "typeName": "Rainbow Castle",
+      "displayName": "Castle Wars",
+      "typeName": "Mountain Castle",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -420,8 +361,23 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Rainbow Castle",
-          "mapName": "Rainbow Castle"
+          "displayName": "Mountain Castle",
+          "mapName": "Mountain Castle"
+        }
+      ]
+    },
+    {
+      "displayName": "Castle Wars 1.8",
+      "typeName": "Castle Wars 1.8",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Castle Wars 1.8",
+          "mapName": "Castle Wars 1.8"
         }
       ]
     },
