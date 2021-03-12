@@ -52,7 +52,7 @@
   "Types": [
     {
       "displayName": "Hot Pursuit",
-      "typeName": "Hot Pursuit DM",
+      "typeName": "EDG Hot Pursuit",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -60,29 +60,14 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Hot Pursuit DM",
-          "mapName": "Hot Pursuit DM"
+          "displayName": "EDG Hot Pursuit",
+          "mapName": "EDG Hot Pursuit"
         }
       ]
     },
     {
-      "displayName": "Hunger Games",
-      "typeName": "Cornucopia",
-      "commands": [
-        "Server.SprintEnabled 0",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Cornucopia",
-          "mapName": "Cornucopia"
-        }
-      ]
-    },
-    {
-      "displayName": "Death Run",
-      "typeName": "Death Run",
+      "displayName": "Warthog Run",
+      "typeName": "Warthog Run",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -90,14 +75,14 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Death Run v1",
-          "mapName": "Death Run"
+          "displayName": "Warthog Run",
+          "mapName": "Warthog Run"
         }
       ]
     },
     {
-      "displayName": "Death Run",
-      "typeName": "Death Run v2",
+      "displayName": "Guilty Spark",
+      "typeName": "Guilty Spark",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -105,8 +90,23 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Death Run v2",
-          "mapName": "Death Run v2"
+          "displayName": "Guilty Spark",
+          "mapName": "Guilty Spark"
+        }
+      ]
+    },
+    {
+      "displayName": "Gladiators",
+      "typeName": "Friendship Pit",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Friendship Pit",
+          "mapName": "Friendship Pit"
         }
       ]
     },
@@ -156,8 +156,8 @@
       ]
     },
     {
-      "displayName": "Quick Draw",
-      "typeName": "Quick Draw",
+      "displayName": "Rainbow Six",
+      "typeName": "R6 Siege",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -165,8 +165,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Octagon",
-          "mapName": "Quick Draw"
+          "displayName": "R6 Siege",
+          "mapName": "R6 Siege"
         }
       ]
     },
@@ -216,8 +216,8 @@
       ]
     },
     {
-      "displayName": "Fat Kid",
-      "typeName": "Fat Captain",
+      "displayName": "Fiesta Hangar",
+      "typeName": "Fiesta Hangar",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -225,14 +225,14 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fat Captain",
-          "mapName": "Fat Captain"
+          "displayName": "Fiesta Hangar",
+          "mapName": "Fiesta Hangar"
         }
       ]
     },
     {
-      "displayName": "Superman",
-      "typeName": "Superman Training",
+      "displayName": "Jenga Arena",
+      "typeName": "Jenga Arena",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -240,14 +240,14 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Superman Training",
-          "mapName": "Superman Training"
+          "displayName": "Jenga Arena",
+          "mapName": "Jenga Arena"
         }
       ]
     },
     {
-      "displayName": "FlySwat",
-      "typeName": "Fly Swatter",
+      "displayName": "SharksNMinnows",
+      "typeName": "SharksNMinnows",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -255,8 +255,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fly Swatter",
-          "mapName": "Fly Swatter"
+          "displayName": "SharksNMinnows",
+          "mapName": "SharksNMinnows"
         }
       ]
     },
@@ -276,8 +276,8 @@
       ]
     },
     {
-      "displayName": "Fat Kid",
-      "typeName": "Garys Lab",
+      "displayName": "Leech Slayer",
+      "typeName": "Altiorem",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -285,8 +285,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Garys Lab",
-          "mapName": "Garys Lab"
+          "displayName": "Altiorem",
+          "mapName": "Altiorem"
         }
       ]
     },
@@ -411,8 +411,8 @@
       ]
     },
     {
-      "displayName": "sawdust",
-      "typeName": "Termites",
+      "displayName": "Fat Kid",
+      "typeName": "Big Smoke Order",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -420,23 +420,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Termites",
-          "mapName": "Termites"
-        }
-      ]
-    },
-    {
-      "displayName": "1v1",
-      "typeName": "Tournament",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Tournament",
-          "mapName": "Tournament"
+          "displayName": "Big Smoke Order",
+          "mapName": "Big Smoke Order"
         }
       ]
     },
@@ -482,21 +467,6 @@
         {
           "displayName": "Covenant Factory",
           "mapName": "Covenant Factory"
-        }
-      ]
-    },
-    {
-      "displayName": "King Slayer",
-      "typeName": "King Slayer",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "King Slayer",
-          "mapName": "King Slayer"
         }
       ]
     },
