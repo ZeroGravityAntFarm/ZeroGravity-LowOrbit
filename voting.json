@@ -471,6 +471,96 @@
       ]
     },
     {
+      "displayName": "Halo Ring",
+      "typeName": "Halo Ring V3",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Halo Ring V3",
+          "mapName": "Halo Ring V3"
+        }
+      ]
+    },
+    {
+      "displayName": "Normandy",
+      "typeName": "Normandy",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Normandy",
+          "mapName": "Normandy"
+        }
+      ]
+    },
+    {
+      "displayName": "Drive Or Die",
+      "typeName": "Drive Or Die",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Drive Or Die",
+          "mapName": "Drive Or Die"
+        }
+      ]
+    },
+    {
+      "displayName": "Splatter Trail",
+      "typeName": "Splatter Trail",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Splatter Trail",
+          "mapName": "Splatter Trail"
+        }
+      ]
+    },
+    {
+      "displayName": "Minas Tirith",
+      "typeName": "Minas Tirith",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Minas Tirith",
+          "mapName": "Minas Tirith"
+        }
+      ]
+    },
+    {
+      "displayName": "LSD Race",
+      "typeName": "LSD Race",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "LSD Race",
+          "mapName": "LSD Race"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
