@@ -81,8 +81,8 @@
       ]
     },
     {
-      "displayName": "Guilty Spark",
-      "typeName": "Guilty Spark",
+      "displayName": "Garys Lab",
+      "typeName": "Garys Lab",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -90,8 +90,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Guilty Spark",
-          "mapName": "Guilty Spark"
+          "displayName": "Garys Lab",
+          "mapName": "Garys Lab"
         }
       ]
     },
