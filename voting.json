@@ -276,7 +276,7 @@
       ]
     },
     {
-      "displayName": "Leech Slayer",
+      "displayName": "Vampire Slayer",
       "typeName": "Altiorem",
       "commands": [
         "Server.SprintEnabled 1",
@@ -396,8 +396,8 @@
       ]
     },
     {
-      "displayName": "Sneks",
-      "typeName": "Splatter Snek",
+      "displayName": "Basilisk Den",
+      "typeName": "Basilisk Den",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -405,8 +405,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Splatter Snek",
-          "mapName": "Splatter Snek"
+          "displayName": "Basilisk Den",
+          "mapName": "Basilisk Den"
         }
       ]
     },
