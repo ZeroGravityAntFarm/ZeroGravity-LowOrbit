@@ -321,17 +321,17 @@
       ]
     },
     {
-      "displayName": "DTH",
-      "typeName": "Deck The Halls",
+      "displayName": "Demo Derby",
+      "typeName": "Demo Derby",
       "commands": [
-        "Server.SprintEnabled 0",
+        "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
         "Server.NumberOfTeams 2"
       ],
       "SpecificMaps": [
         {
-          "displayName": "Deck The Halls",
-          "mapName": "Deck The Halls"
+          "displayName": "Demo Derby",
+          "mapName": "Demo Derby"
         }
       ]
     },
@@ -516,8 +516,8 @@
       ]
     },
     {
-      "displayName": "Splatter Trail",
-      "typeName": "Splatter Trail",
+      "displayName": "Mombasa Streets",
+      "typeName": "Mombasa Streets",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -525,8 +525,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Splatter Trail",
-          "mapName": "Splatter Trail"
+          "displayName": "Mombasa Streets",
+          "mapName": "Mombasa Streets"
         }
       ]
     },
