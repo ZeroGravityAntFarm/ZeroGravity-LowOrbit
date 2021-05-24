@@ -291,8 +291,8 @@
       ]
     },
     {
-      "displayName": "Jump",
-      "typeName": "Jump Rope",
+      "displayName": "Gladiators",
+      "typeName": "Maximus",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -300,8 +300,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Jump Rope",
-          "mapName": "Jump Rope"
+          "displayName": "Maximus",
+          "mapName": "Maximus"
         }
       ]
     },
@@ -336,8 +336,8 @@
       ]
     },
     {
-      "displayName": "Omega",
-      "typeName": "Omega Journey 3",
+      "displayName": "FatKid Levelz",
+      "typeName": "FatKid Levelz",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -345,8 +345,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Omega Journey 3",
-          "mapName": "Omega Journey 3"
+          "displayName": "FatKid Levelz",
+          "mapName": "FatKid Levelz"
         }
       ]
     },
@@ -557,6 +557,51 @@
         {
           "displayName": "LSD Race",
           "mapName": "LSD Race"
+        }
+      ]
+    },
+    {
+      "displayName": "Halo Burger",
+      "typeName": "Halo Burger",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Halo Burger",
+          "mapName": "Halo Burger"
+        }
+      ]
+    },
+    {
+      "displayName": "Space Wars",
+      "typeName": "Space Wars",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Space Wars",
+          "mapName": "Space Wars"
+        }
+      ]
+    },
+    {
+      "displayName": "Swords of Fate",
+      "typeName": "Swords of Fate",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Swords of Fate",
+          "mapName": "Swords of Fate"
         }
       ]
     },
