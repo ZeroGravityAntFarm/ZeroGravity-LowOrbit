@@ -501,8 +501,8 @@
       ]
     },
     {
-      "displayName": "Drive Or Die",
-      "typeName": "Drive Or Die",
+      "displayName": "Drive or Die",
+      "typeName": "Drive or Die",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -510,8 +510,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Drive Or Die",
-          "mapName": "Drive Or Die"
+          "displayName": "Drive or Die",
+          "mapName": "Drive or Die"
         }
       ]
     },
