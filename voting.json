@@ -81,21 +81,6 @@
       ]
     },
     {
-      "displayName": "Garys Lab",
-      "typeName": "Garys Lab",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Garys Lab",
-          "mapName": "Garys Lab"
-        }
-      ]
-    },
-    {
       "displayName": "Gladiators",
       "typeName": "Friendship Pit",
       "commands": [
