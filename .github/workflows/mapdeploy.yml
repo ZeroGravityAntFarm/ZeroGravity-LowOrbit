@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - master
+      
 jobs:
   DeployMaps:
     name: Map Deploy
@@ -49,3 +50,15 @@ jobs:
         password: ${{ secrets.PASSWORD }}
         port: 22
         script: echo ${{ secrets.PASSWORD }} | sudo -S /home/${{ secrets.USERNAME }}/containers/eldewrito/cache/copy.sh
+
+  DiscordNotify:
+    name: Notify Discord
+    needs: [DeployMaps, DeployVoteConfig]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notifying Discord
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEB_HOOK }}
+        uses: Ilshidur/action-discord@master
+        with:
+          args: 'LowOrbit Maps deployed successfully.'
