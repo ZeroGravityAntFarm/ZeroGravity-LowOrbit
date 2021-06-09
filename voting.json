@@ -576,6 +576,21 @@
       ]
     },
     {
+      "displayName": "FatKid",
+      "typeName": "IndianaJonesv2",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "IndianaJonesv2",
+          "mapName": "IndianaJonesv2"
+        }
+      ]
+    },
+    {
       "displayName": "Swords of Fate",
       "typeName": "Swords of Fate",
       "commands": [
