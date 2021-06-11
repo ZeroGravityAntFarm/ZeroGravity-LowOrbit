@@ -606,6 +606,36 @@
       ]
     },
     {
+      "displayName": "Godzilla",
+      "typeName": "Outbreak City",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Outbreak City",
+          "mapName": "Outbreak City"
+        }
+      ]
+    },
+    {
+      "displayName": "Blue Rover",
+      "typeName": "Blue Rover",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Blue Rover",
+          "mapName": "Blue Rover"
+        }
+      ]
+    },
+    {
       "displayName": "Escape!",
       "typeName": "Warehouse v1.5",
       "commands": [
