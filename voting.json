@@ -577,7 +577,7 @@
     },
     {
       "displayName": "FatKid",
-      "typeName": "IndianaJonesv2",
+      "typeName": "Cerberus",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -585,8 +585,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "IndianaJonesv2",
-          "mapName": "IndianaJonesv2"
+          "displayName": "Cerberus",
+          "mapName": "Cerberus"
         }
       ]
     },
