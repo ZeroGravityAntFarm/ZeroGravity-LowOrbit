@@ -51,7 +51,7 @@
   ],
   "Types": [
     {
-      "displayName": "Hot Pursuit",
+      "displayName": "HP.Edge",
       "typeName": "EDG Hot Pursuit",
       "commands": [
         "Server.SprintEnabled 1",
@@ -617,6 +617,21 @@
         {
           "displayName": "Skycastle 6.1",
           "mapName": "Skycastle 6.1"
+        }
+      ]
+    },
+    {
+      "displayName": "HP.Hightops",
+      "typeName": "HP.Hightops",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "HP.Hightops",
+          "mapName": "HP.Hightops"
         }
       ]
     },
