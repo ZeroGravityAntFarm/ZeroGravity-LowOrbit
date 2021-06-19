@@ -216,21 +216,6 @@
       ]
     },
     {
-      "displayName": "Jenga Arena",
-      "typeName": "Jenga Arena",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Jenga Arena",
-          "mapName": "Jenga Arena"
-        }
-      ]
-    },
-    {
       "displayName": "SharksNMinnows",
       "typeName": "SharksNMinnows",
       "commands": [
@@ -546,21 +531,6 @@
       ]
     },
     {
-      "displayName": "Halo Burger",
-      "typeName": "Halo Burger",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Halo Burger",
-          "mapName": "Halo Burger"
-        }
-      ]
-    },
-    {
       "displayName": "Space Wars",
       "typeName": "Space Wars",
       "commands": [
@@ -591,8 +561,8 @@
       ]
     },
     {
-      "displayName": "Swords of Fate",
-      "typeName": "Swords of Fate",
+      "displayName": "Epidemic",
+      "typeName": "Epidemic",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -600,8 +570,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Swords of Fate",
-          "mapName": "Swords of Fate"
+          "displayName": "Epidemic",
+          "mapName": "Epidemic"
         }
       ]
     },
@@ -632,6 +602,21 @@
         {
           "displayName": "Blue Rover",
           "mapName": "Blue Rover"
+        }
+      ]
+    },
+    {
+      "displayName": "Skycastle 6.1",
+      "typeName": "Skycastle 6.1",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Skycastle 6.1",
+          "mapName": "Skycastle 6.1"
         }
       ]
     },
