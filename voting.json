@@ -426,21 +426,6 @@
       ]
     },
     {
-      "displayName": "Covenant Factory",
-      "typeName": "Covenant Factory",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Covenant Factory",
-          "mapName": "Covenant Factory"
-        }
-      ]
-    },
-    {
       "displayName": "Halo Ring",
       "typeName": "Halo Ring V3",
       "commands": [
