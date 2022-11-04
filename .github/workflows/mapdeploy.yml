@@ -61,4 +61,4 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEB_HOOK }}
         uses: Ilshidur/action-discord@master
         with:
-          args: 'LowOrbit Maps deployed successfully.'
+          args: 'New maps deployed to ElDewrito Server!'
