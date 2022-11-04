@@ -126,8 +126,8 @@
       ]
     },
     {
-      "displayName": "Hot Pursuit",
-      "typeName": "Hot Pursuit Beach Resort",
+      "displayName": "Quick Draw Fiesta",
+      "typeName": "Quick Draw Fiesta",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -135,8 +135,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Beach Resort",
-          "mapName": "Hot Pursuit Beach Resort"
+          "displayName": "Quick Draw Fiesta",
+          "mapName": "Quick Draw Fiesta"
         }
       ]
     },
@@ -306,6 +306,21 @@
       ]
     },
     {
+      "displayName": "R6 Siege",
+      "typeName": "R6 Siege",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "R6 Siege",
+          "mapName": "R6 Siege"
+        }
+      ]
+    },
+    {
       "displayName": "FatKid Levelz",
       "typeName": "FatKid Levelz",
       "commands": [
@@ -321,8 +336,8 @@
       ]
     },
     {
-      "displayName": "Castle Wars",
-      "typeName": "Mountain Castle",
+      "displayName": "Quick Draw",
+      "typeName": "Quick Draw",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -330,23 +345,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Mountain Castle",
-          "mapName": "Mountain Castle"
-        }
-      ]
-    },
-    {
-      "displayName": "Castle Wars 1.8",
-      "typeName": "Castle Wars 1.8",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Castle Wars 1.8",
-          "mapName": "Castle Wars 1.8"
+          "displayName": "Quick Draw",
+          "mapName": "Quick Draw"
         }
       ]
     },
@@ -362,21 +362,6 @@
         {
           "displayName": "Speed Halo",
           "mapName": "Speed Halo"
-        }
-      ]
-    },
-    {
-      "displayName": "Basilisk Den",
-      "typeName": "Basilisk Den",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Basilisk Den",
-          "mapName": "Basilisk Den"
         }
       ]
     },
@@ -456,21 +441,6 @@
       ]
     },
     {
-      "displayName": "Drive or Die",
-      "typeName": "Drive or Die",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "Drive or Die",
-          "mapName": "Drive or Die"
-        }
-      ]
-    },
-    {
       "displayName": "Mombasa Streets",
       "typeName": "Mombasa Streets",
       "commands": [
@@ -497,21 +467,6 @@
         {
           "displayName": "Minas Tirith",
           "mapName": "Minas Tirith"
-        }
-      ]
-    },
-    {
-      "displayName": "LSD Race",
-      "typeName": "LSD Race",
-      "commands": [
-        "Server.SprintEnabled 1",
-        "Server.AssassinationEnabled 0",
-        "Server.NumberOfTeams 2"
-      ],
-      "SpecificMaps": [
-        {
-          "displayName": "LSD Race",
-          "mapName": "LSD Race"
         }
       ]
     },
@@ -617,6 +572,51 @@
         {
           "displayName": "HP.Hightops",
           "mapName": "HP.Hightops"
+        }
+      ]
+    },
+    {
+      "displayName": "Fly Swatter",
+      "typeName": "Fly Swatter",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Fly Swatter",
+          "mapName": "Fly Swatter"
+        }
+      ]
+    },
+    {
+      "displayName": "Garys Lab",
+      "typeName": "Garys Lab",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Garys Lab",
+          "mapName": "Garys Lab"
+        }
+      ]
+    },
+    {
+      "displayName": "Deck The Halls",
+      "typeName": "Deck The Halls",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Deck The Halls",
+          "mapName": "Deck The Halls"
         }
       ]
     },
