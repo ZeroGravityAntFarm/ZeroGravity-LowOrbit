@@ -126,8 +126,8 @@
       ]
     },
     {
-      "displayName": "Quick Draw Fiesta",
-      "typeName": "Quick Draw Fiesta",
+      "displayName": "Ice Cream Man",
+      "typeName": "Ice Cream Man",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -135,8 +135,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Quick Draw Fiesta",
-          "mapName": "Quick Draw Fiesta"
+          "displayName": "Ice Cream Man",
+          "mapName": "Ice Cream Man"
         }
       ]
     },
