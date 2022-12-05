@@ -51,8 +51,8 @@
   ],
   "Types": [
     {
-      "displayName": "Fatkid Level III",
-      "typeName": "Fatkid Level III",
+      "displayName": "Termites",
+      "typeName": "Termites",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -60,8 +60,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Fatkid Level III",
-          "mapName": "Fatkid Level III"
+          "displayName": "Termites",
+          "mapName": "Termites"
         }
       ]
     },
