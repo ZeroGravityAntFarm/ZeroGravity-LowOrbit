@@ -51,8 +51,8 @@
   ],
   "Types": [
     {
-      "displayName": "HP.Edge",
-      "typeName": "EDG Hot Pursuit",
+      "displayName": "Fatkid Level III",
+      "typeName": "Fatkid Level III",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -60,8 +60,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "EDG Hot Pursuit",
-          "mapName": "EDG Hot Pursuit"
+          "displayName": "Fatkid Level III",
+          "mapName": "Fatkid Level III"
         }
       ]
     },
@@ -456,8 +456,8 @@
       ]
     },
     {
-      "displayName": "Minas Tirith",
-      "typeName": "Minas Tirith",
+      "displayName": "Netu",
+      "typeName": "Netu",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -465,8 +465,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Minas Tirith",
-          "mapName": "Minas Tirith"
+          "displayName": "Netu",
+          "mapName": "Netu"
         }
       ]
     },
@@ -501,8 +501,8 @@
       ]
     },
     {
-      "displayName": "Epidemic",
-      "typeName": "Epidemic",
+      "displayName": "Dyad",
+      "typeName": "Dyad",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -510,8 +510,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "Epidemic",
-          "mapName": "Epidemic"
+          "displayName": "Dyad",
+          "mapName": "Dyad"
         }
       ]
     },
@@ -561,8 +561,8 @@
       ]
     },
     {
-      "displayName": "HP.Hightops",
-      "typeName": "HP.Hightops",
+      "displayName": "Halo Burger",
+      "typeName": "Halo Burger",
       "commands": [
         "Server.SprintEnabled 1",
         "Server.AssassinationEnabled 0",
@@ -570,8 +570,8 @@
       ],
       "SpecificMaps": [
         {
-          "displayName": "HP.Hightops",
-          "mapName": "HP.Hightops"
+          "displayName": "Halo Burger",
+          "mapName": "Halo Burger"
         }
       ]
     },
