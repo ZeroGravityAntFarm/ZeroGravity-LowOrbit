@@ -81,6 +81,81 @@
       ]
     },
     {
+      "displayName": "Swat",
+      "typeName": "Architect",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Architect",
+          "mapName": "Architect"
+        }
+      ]
+    },
+    {
+      "displayName": "Swat",
+      "typeName": "Plaza",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "CoD Plaza",
+          "mapName": "Plaza"
+        }
+      ]
+    },
+    {
+      "displayName": "CTF",
+      "typeName": "Transit Wars",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Transit Wars",
+          "mapName": "Transit Wars"
+        }
+      ]
+    },
+    {
+      "displayName": "CTF",
+      "typeName": "Sidewinder",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Sidewinder",
+          "mapName": "Sidewinder"
+        }
+      ]
+    },
+    {
+      "displayName": "Swat",
+      "typeName": "Ivory Tower",
+      "commands": [
+        "Server.SprintEnabled 1",
+        "Server.AssassinationEnabled 0",
+        "Server.NumberOfTeams 2"
+      ],
+      "SpecificMaps": [
+        {
+          "displayName": "Ivory Tower",
+          "mapName": "Ivory Tower"
+        }
+      ]
+    },
+    {
       "displayName": "Gladiators",
       "typeName": "Friendship Pit",
       "commands": [
